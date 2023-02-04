@@ -1,4 +1,5 @@
 for annotation_skew_degree in '6 6'
+do
     python experiments.py --model=resnet18 \
         --dataset=cifar10 \
         --alg=fedavg \
@@ -17,3 +18,4 @@ for annotation_skew_degree in '6 6'
         --noise=0\
         --init_seed=0 \
         --dt_usage='1 1 1 1 1'
+done
