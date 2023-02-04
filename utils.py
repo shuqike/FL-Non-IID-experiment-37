@@ -382,10 +382,6 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
             np.random.shuffle(net_dataidx_map[p])
 
     elif partition == "noniid-instancedependent":
-        # parse the annotation_skew_degree
-        print(annotation_skew_degree)
-        annotation_skew_degree = annotation_skew_degree.split(' ')
-        annotation_skew_degree = list(map(int, annotation_skew_degree))
         # K: num of class
         K = 10
         if dataset in ('celeba', 'covtype', 'a9a', 'rcv1', 'SUSY'):
@@ -427,9 +423,10 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
             transforms.RandomHorizontalFlip(),
             transforms.ToTensor()
         ])
-        # add label noise
+        # parse the annotation_skew_degree
         annotation_skew_degree = annotation_skew_degree.split(' ')
         annotation_skew_degree = list(map(float, annotation_skew_degree))
+        # add label noise
         for p in range(n_parties):
             nets[p].load_state_dict(torch.load('./annotators/ant6'))
             nets[p].eval()
