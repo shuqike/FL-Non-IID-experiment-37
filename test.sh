@@ -8,7 +8,7 @@ do
         --epochs=2 \
         --n_parties=2 \
         --rho=0.9 \
-        --comm_round=50 \
+        --comm_round=2 \
         --partition='noniid-instancedependent' \
         --annotation_skew_degree="$annotation_skew_degree" \
         --beta=0.5\
