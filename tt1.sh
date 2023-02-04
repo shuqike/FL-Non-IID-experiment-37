@@ -1,4 +1,4 @@
-for annotation_skew_degree in '6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6'
+for annotation_skew_degree in '0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1' '0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2' '0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3'
 do
     python experiments.py --model=resnet18 \
         --dataset=cifar10 \
@@ -12,9 +12,9 @@ do
         --partition='noniid-instancedependent' \
         --annotation_skew_degree="$annotation_skew_degree" \
         --beta=10\
-        --device='cuda'\
+        --device='cuda:1'\
         --datadir='./data/' \
-        --logdir='./logs/tt1/' \
+        --logdir='./logs/fedavg/' \
         --noise=0\
         --init_seed=0 \
         --dt_usage='1 1 1 1 1'
