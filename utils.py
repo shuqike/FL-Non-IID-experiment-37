@@ -395,10 +395,25 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
             K = 100
         elif dataset == 'tinyimagenet':
             K = 200
-        # even partition
-        idxs = np.random.permutation(n_train)
-        batch_idxs = np.array_split(idxs, n_parties)
-        net_dataidx_map = {i: batch_idxs[i] for i in range(n_parties)}
+        # dirichlet partition
+        min_size = 0
+        min_require_size = 10
+        N = y_train.shape[0]
+        net_dataidx_map = {}
+        while min_size < min_require_size:
+            idx_batch = [[] for _ in range(n_parties)]
+            for k in range(K):
+                idx_k = np.where(y_train == k)[0]
+                np.random.shuffle(idx_k)
+                proportions = np.random.dirichlet(np.repeat(beta, n_parties))
+                proportions = np.array([p * (len(idx_j) < N / n_parties) for p, idx_j in zip(proportions, idx_batch)])
+                proportions = proportions / proportions.sum()
+                proportions = (np.cumsum(proportions) * len(idx_k)).astype(int)[:-1]
+                idx_batch = [idx_j + idx.tolist() for idx_j, idx in zip(idx_batch, np.split(idx_k, proportions))]
+                min_size = min([len(idx_j) for idx_j in idx_batch])
+        for j in range(n_parties):
+            np.random.shuffle(idx_batch[j])
+            net_dataidx_map[j] = idx_batch[j]
         # design label mapping
         nets = [ResNet18_cifar10() for _ in range(n_parties)]
         # prepare transform

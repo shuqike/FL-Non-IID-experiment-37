@@ -11,7 +11,7 @@ do
         --comm_round=2 \
         --partition='noniid-instancedependent' \
         --annotation_skew_degree="$annotation_skew_degree" \
-        --beta=0.5\
+        --beta=10\
         --device='cuda'\
         --datadir='./data/' \
         --logdir='./logs/test/' \
