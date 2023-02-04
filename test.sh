@@ -17,5 +17,5 @@ do
         --logdir='./logs/test/' \
         --noise=0\
         --init_seed=0 \
-        --dt_usage='1 1 1 1 1'
+        --dt_usage='1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1'
 done
