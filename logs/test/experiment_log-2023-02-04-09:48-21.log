@@ -13176,3 +13176,1766 @@
 02-04 13-32 INFO     Epoch: 0 Loss: 0.818114
 02-04 13-32 INFO     Epoch: 1 Loss: 0.689377
 02-04 13-32 INFO     Epoch: 2 Loss: 0.606047
+02-04 13-32 INFO     Epoch: 3 Loss: 0.536791
+02-04 13-32 INFO     Epoch: 4 Loss: 0.493548
+02-04 13-32 INFO     >> Training accuracy: 0.809809
+02-04 13-32 INFO     >> Test accuracy: 0.627400
+02-04 13-32 INFO      ** Training complete **
+02-04 13-32 INFO     net 10 final test acc 0.627400
+02-04 13-32 INFO     Training network 11. n_training: 1746
+02-04 13-32 INFO     Training network 11
+02-04 13-32 INFO     >> Pre-Training Training accuracy: 0.8178694158075601
+02-04 13-32 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-32 INFO     Epoch: 0 Loss: 0.796149
+02-04 13-32 INFO     Epoch: 1 Loss: 0.590753
+02-04 13-32 INFO     Epoch: 2 Loss: 0.574428
+02-04 13-32 INFO     Epoch: 3 Loss: 0.504272
+02-04 13-32 INFO     Epoch: 4 Loss: 0.475666
+02-04 13-32 INFO     >> Training accuracy: 0.821306
+02-04 13-32 INFO     >> Test accuracy: 0.688400
+02-04 13-32 INFO      ** Training complete **
+02-04 13-32 INFO     net 11 final test acc 0.688400
+02-04 13-32 INFO     Training network 12. n_training: 1709
+02-04 13-32 INFO     Training network 12
+02-04 13-32 INFO     >> Pre-Training Training accuracy: 0.8051492100643651
+02-04 13-32 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-32 INFO     Epoch: 0 Loss: 0.805745
+02-04 13-32 INFO     Epoch: 1 Loss: 0.590359
+02-04 13-32 INFO     Epoch: 2 Loss: 0.477100
+02-04 13-32 INFO     Epoch: 3 Loss: 0.406496
+02-04 13-32 INFO     Epoch: 4 Loss: 0.383157
+02-04 13-33 INFO     >> Training accuracy: 0.849035
+02-04 13-33 INFO     >> Test accuracy: 0.686800
+02-04 13-33 INFO      ** Training complete **
+02-04 13-33 INFO     net 12 final test acc 0.686800
+02-04 13-33 INFO     Training network 13. n_training: 1744
+02-04 13-33 INFO     Training network 13
+02-04 13-33 INFO     >> Pre-Training Training accuracy: 0.786697247706422
+02-04 13-33 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-33 INFO     Epoch: 0 Loss: 0.852448
+02-04 13-33 INFO     Epoch: 1 Loss: 0.649449
+02-04 13-33 INFO     Epoch: 2 Loss: 0.553238
+02-04 13-33 INFO     Epoch: 3 Loss: 0.483630
+02-04 13-33 INFO     Epoch: 4 Loss: 0.479112
+02-04 13-33 INFO     >> Training accuracy: 0.823394
+02-04 13-33 INFO     >> Test accuracy: 0.644300
+02-04 13-33 INFO      ** Training complete **
+02-04 13-33 INFO     net 13 final test acc 0.644300
+02-04 13-33 INFO     Training network 14. n_training: 1784
+02-04 13-33 INFO     Training network 14
+02-04 13-33 INFO     >> Pre-Training Training accuracy: 0.827354260089686
+02-04 13-33 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-33 INFO     Epoch: 0 Loss: 0.775490
+02-04 13-33 INFO     Epoch: 1 Loss: 0.550929
+02-04 13-33 INFO     Epoch: 2 Loss: 0.459670
+02-04 13-33 INFO     Epoch: 3 Loss: 0.448092
+02-04 13-33 INFO     Epoch: 4 Loss: 0.363316
+02-04 13-33 INFO     >> Training accuracy: 0.808296
+02-04 13-33 INFO     >> Test accuracy: 0.665100
+02-04 13-33 INFO      ** Training complete **
+02-04 13-33 INFO     net 14 final test acc 0.665100
+02-04 13-33 INFO     Training network 15. n_training: 1835
+02-04 13-33 INFO     Training network 15
+02-04 13-33 INFO     >> Pre-Training Training accuracy: 0.817983651226158
+02-04 13-33 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-33 INFO     Epoch: 0 Loss: 0.761952
+02-04 13-33 INFO     Epoch: 1 Loss: 0.594819
+02-04 13-33 INFO     Epoch: 2 Loss: 0.503928
+02-04 13-33 INFO     Epoch: 3 Loss: 0.443329
+02-04 13-33 INFO     Epoch: 4 Loss: 0.370230
+02-04 13-33 INFO     >> Training accuracy: 0.905722
+02-04 13-33 INFO     >> Test accuracy: 0.745300
+02-04 13-33 INFO      ** Training complete **
+02-04 13-33 INFO     net 15 final test acc 0.745300
+02-04 13-33 INFO     Training network 16. n_training: 1358
+02-04 13-33 INFO     Training network 16
+02-04 13-33 INFO     >> Pre-Training Training accuracy: 0.804860088365243
+02-04 13-33 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-33 INFO     Epoch: 0 Loss: 0.823882
+02-04 13-33 INFO     Epoch: 1 Loss: 0.611931
+02-04 13-33 INFO     Epoch: 2 Loss: 0.555482
+02-04 13-33 INFO     Epoch: 3 Loss: 0.454513
+02-04 13-33 INFO     Epoch: 4 Loss: 0.472696
+02-04 13-33 INFO     >> Training accuracy: 0.873343
+02-04 13-33 INFO     >> Test accuracy: 0.720400
+02-04 13-33 INFO      ** Training complete **
+02-04 13-33 INFO     net 16 final test acc 0.720400
+02-04 13-33 INFO     Training network 17. n_training: 1751
+02-04 13-33 INFO     Training network 17
+02-04 13-33 INFO     >> Pre-Training Training accuracy: 0.7818389491719018
+02-04 13-33 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-33 INFO     Epoch: 0 Loss: 0.836508
+02-04 13-33 INFO     Epoch: 1 Loss: 0.624176
+02-04 13-33 INFO     Epoch: 2 Loss: 0.572604
+02-04 13-33 INFO     Epoch: 3 Loss: 0.513060
+02-04 13-33 INFO     Epoch: 4 Loss: 0.461881
+02-04 13-33 INFO     >> Training accuracy: 0.864078
+02-04 13-33 INFO     >> Test accuracy: 0.644100
+02-04 13-33 INFO      ** Training complete **
+02-04 13-33 INFO     net 17 final test acc 0.644100
+02-04 13-33 INFO     Training network 18. n_training: 1531
+02-04 13-34 INFO     Training network 18
+02-04 13-34 INFO     >> Pre-Training Training accuracy: 0.8131939908556499
+02-04 13-34 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-34 INFO     Epoch: 0 Loss: 0.766741
+02-04 13-34 INFO     Epoch: 1 Loss: 0.543938
+02-04 13-34 INFO     Epoch: 2 Loss: 0.452696
+02-04 13-34 INFO     Epoch: 3 Loss: 0.359271
+02-04 13-34 INFO     Epoch: 4 Loss: 0.394439
+02-04 13-34 INFO     >> Training accuracy: 0.874592
+02-04 13-34 INFO     >> Test accuracy: 0.711400
+02-04 13-34 INFO      ** Training complete **
+02-04 13-34 INFO     net 18 final test acc 0.711400
+02-04 13-34 INFO     Training network 19. n_training: 1581
+02-04 13-34 INFO     Training network 19
+02-04 13-34 INFO     >> Pre-Training Training accuracy: 0.8026565464895635
+02-04 13-34 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-34 INFO     Epoch: 0 Loss: 0.745963
+02-04 13-34 INFO     Epoch: 1 Loss: 0.580258
+02-04 13-34 INFO     Epoch: 2 Loss: 0.485475
+02-04 13-34 INFO     Epoch: 3 Loss: 0.388081
+02-04 13-34 INFO     Epoch: 4 Loss: 0.344615
+02-04 13-34 INFO     >> Training accuracy: 0.910183
+02-04 13-34 INFO     >> Test accuracy: 0.734600
+02-04 13-34 INFO      ** Training complete **
+02-04 13-34 INFO     net 19 final test acc 0.734600
+02-04 13-34 INFO     Training network 20. n_training: 1741
+02-04 13-34 INFO     Training network 20
+02-04 13-34 INFO     >> Pre-Training Training accuracy: 0.7909247558874211
+02-04 13-34 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-34 INFO     Epoch: 0 Loss: 0.844049
+02-04 13-34 INFO     Epoch: 1 Loss: 0.673375
+02-04 13-34 INFO     Epoch: 2 Loss: 0.616282
+02-04 13-34 INFO     Epoch: 3 Loss: 0.591444
+02-04 13-34 INFO     Epoch: 4 Loss: 0.541630
+02-04 13-34 INFO     >> Training accuracy: 0.820218
+02-04 13-34 INFO     >> Test accuracy: 0.631200
+02-04 13-34 INFO      ** Training complete **
+02-04 13-34 INFO     net 20 final test acc 0.631200
+02-04 13-34 INFO     Training network 21. n_training: 1799
+02-04 13-34 INFO     Training network 21
+02-04 13-34 INFO     >> Pre-Training Training accuracy: 0.7993329627570873
+02-04 13-34 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-34 INFO     Epoch: 0 Loss: 0.790715
+02-04 13-34 INFO     Epoch: 1 Loss: 0.606685
+02-04 13-34 INFO     Epoch: 2 Loss: 0.604747
+02-04 13-34 INFO     Epoch: 3 Loss: 0.594077
+02-04 13-34 INFO     Epoch: 4 Loss: 0.527743
+02-04 13-34 INFO     >> Training accuracy: 0.767093
+02-04 13-34 INFO     >> Test accuracy: 0.663600
+02-04 13-34 INFO      ** Training complete **
+02-04 13-34 INFO     net 21 final test acc 0.663600
+02-04 13-34 INFO     Training network 22. n_training: 1904
+02-04 13-34 INFO     Training network 22
+02-04 13-34 INFO     >> Pre-Training Training accuracy: 0.7925420168067226
+02-04 13-34 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-34 INFO     Epoch: 0 Loss: 0.797337
+02-04 13-34 INFO     Epoch: 1 Loss: 0.625971
+02-04 13-34 INFO     Epoch: 2 Loss: 0.549942
+02-04 13-34 INFO     Epoch: 3 Loss: 0.493298
+02-04 13-34 INFO     Epoch: 4 Loss: 0.427733
+02-04 13-34 INFO     >> Training accuracy: 0.845588
+02-04 13-34 INFO     >> Test accuracy: 0.693700
+02-04 13-34 INFO      ** Training complete **
+02-04 13-34 INFO     net 22 final test acc 0.693700
+02-04 13-34 INFO     Training network 23. n_training: 1562
+02-04 13-35 INFO     Training network 23
+02-04 13-35 INFO     >> Pre-Training Training accuracy: 0.8040973111395646
+02-04 13-35 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-35 INFO     Epoch: 0 Loss: 0.794175
+02-04 13-35 INFO     Epoch: 1 Loss: 0.557165
+02-04 13-35 INFO     Epoch: 2 Loss: 0.432130
+02-04 13-35 INFO     Epoch: 3 Loss: 0.415436
+02-04 13-35 INFO     Epoch: 4 Loss: 0.406976
+02-04 13-35 INFO     >> Training accuracy: 0.828425
+02-04 13-35 INFO     >> Test accuracy: 0.698000
+02-04 13-35 INFO      ** Training complete **
+02-04 13-35 INFO     net 23 final test acc 0.698000
+02-04 13-35 INFO     Training network 24. n_training: 1504
+02-04 13-35 INFO     Training network 24
+02-04 13-35 INFO     >> Pre-Training Training accuracy: 0.7945478723404256
+02-04 13-35 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-35 INFO     Epoch: 0 Loss: 0.809226
+02-04 13-35 INFO     Epoch: 1 Loss: 0.633474
+02-04 13-35 INFO     Epoch: 2 Loss: 0.503630
+02-04 13-35 INFO     Epoch: 3 Loss: 0.423959
+02-04 13-35 INFO     Epoch: 4 Loss: 0.387518
+02-04 13-35 INFO     >> Training accuracy: 0.838431
+02-04 13-35 INFO     >> Test accuracy: 0.693300
+02-04 13-35 INFO      ** Training complete **
+02-04 13-35 INFO     net 24 final test acc 0.693300
+02-04 13-35 INFO     Training network 25. n_training: 1801
+02-04 13-35 INFO     Training network 25
+02-04 13-35 INFO     >> Pre-Training Training accuracy: 0.8062187673514714
+02-04 13-35 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-35 INFO     Epoch: 0 Loss: 0.846955
+02-04 13-35 INFO     Epoch: 1 Loss: 0.739065
+02-04 13-35 INFO     Epoch: 2 Loss: 0.667077
+02-04 13-35 INFO     Epoch: 3 Loss: 0.601239
+02-04 13-35 INFO     Epoch: 4 Loss: 0.522791
+02-04 13-35 INFO     >> Training accuracy: 0.750139
+02-04 13-35 INFO     >> Test accuracy: 0.671200
+02-04 13-35 INFO      ** Training complete **
+02-04 13-35 INFO     net 25 final test acc 0.671200
+02-04 13-35 INFO     Training network 26. n_training: 1761
+02-04 13-35 INFO     Training network 26
+02-04 13-35 INFO     >> Pre-Training Training accuracy: 0.8109028960817717
+02-04 13-35 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-35 INFO     Epoch: 0 Loss: 0.799006
+02-04 13-35 INFO     Epoch: 1 Loss: 0.612042
+02-04 13-35 INFO     Epoch: 2 Loss: 0.556142
+02-04 13-35 INFO     Epoch: 3 Loss: 0.449801
+02-04 13-35 INFO     Epoch: 4 Loss: 0.389650
+02-04 13-35 INFO     >> Training accuracy: 0.857467
+02-04 13-35 INFO     >> Test accuracy: 0.667500
+02-04 13-35 INFO      ** Training complete **
+02-04 13-35 INFO     net 26 final test acc 0.667500
+02-04 13-35 INFO     Training network 27. n_training: 1518
+02-04 13-35 INFO     Training network 27
+02-04 13-35 INFO     >> Pre-Training Training accuracy: 0.8096179183135704
+02-04 13-35 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-35 INFO     Epoch: 0 Loss: 0.786517
+02-04 13-35 INFO     Epoch: 1 Loss: 0.572307
+02-04 13-35 INFO     Epoch: 2 Loss: 0.514706
+02-04 13-35 INFO     Epoch: 3 Loss: 0.422378
+02-04 13-35 INFO     Epoch: 4 Loss: 0.320056
+02-04 13-35 INFO     >> Training accuracy: 0.870224
+02-04 13-35 INFO     >> Test accuracy: 0.714800
+02-04 13-35 INFO      ** Training complete **
+02-04 13-35 INFO     net 27 final test acc 0.714800
+02-04 13-35 INFO     Training network 28. n_training: 1516
+02-04 13-35 INFO     Training network 28
+02-04 13-35 INFO     >> Pre-Training Training accuracy: 0.7803430079155673
+02-04 13-35 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-35 INFO     Epoch: 0 Loss: 0.863526
+02-04 13-36 INFO     Epoch: 1 Loss: 0.634020
+02-04 13-36 INFO     Epoch: 2 Loss: 0.497386
+02-04 13-36 INFO     Epoch: 3 Loss: 0.419837
+02-04 13-36 INFO     Epoch: 4 Loss: 0.396161
+02-04 13-36 INFO     >> Training accuracy: 0.834433
+02-04 13-36 INFO     >> Test accuracy: 0.679100
+02-04 13-36 INFO      ** Training complete **
+02-04 13-36 INFO     net 28 final test acc 0.679100
+02-04 13-36 INFO     Training network 29. n_training: 1732
+02-04 13-36 INFO     Training network 29
+02-04 13-36 INFO     >> Pre-Training Training accuracy: 0.8002309468822171
+02-04 13-36 INFO     >> Pre-Training Test accuracy: 0.8538
+02-04 13-36 INFO     Epoch: 0 Loss: 0.821084
+02-04 13-36 INFO     Epoch: 1 Loss: 0.653057
+02-04 13-36 INFO     Epoch: 2 Loss: 0.610346
+02-04 13-36 INFO     Epoch: 3 Loss: 0.670453
+02-04 13-36 INFO     Epoch: 4 Loss: 0.744369
+02-04 13-36 INFO     >> Training accuracy: 0.749423
+02-04 13-36 INFO     >> Test accuracy: 0.659100
+02-04 13-36 INFO      ** Training complete **
+02-04 13-36 INFO     net 29 final test acc 0.659100
+02-04 13-36 INFO     global n_training: 782
+02-04 13-36 INFO     global n_test: 313
+02-04 13-36 INFO     >> Global Model Train accuracy: 0.872420
+02-04 13-36 INFO     >> Global Model Test accuracy: 0.857700
+02-04 13-36 INFO     in comm round:34
+02-04 13-36 INFO     Training network 0. n_training: 1350
+02-04 13-36 INFO     Training network 0
+02-04 13-36 INFO     >> Pre-Training Training accuracy: 0.8059259259259259
+02-04 13-36 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-36 INFO     Epoch: 0 Loss: 0.882127
+02-04 13-36 INFO     Epoch: 1 Loss: 0.644301
+02-04 13-36 INFO     Epoch: 2 Loss: 0.591086
+02-04 13-36 INFO     Epoch: 3 Loss: 0.749699
+02-04 13-36 INFO     Epoch: 4 Loss: 0.662763
+02-04 13-36 INFO     >> Training accuracy: 0.798519
+02-04 13-36 INFO     >> Test accuracy: 0.707600
+02-04 13-36 INFO      ** Training complete **
+02-04 13-36 INFO     net 0 final test acc 0.707600
+02-04 13-36 INFO     Training network 1. n_training: 1818
+02-04 13-36 INFO     Training network 1
+02-04 13-36 INFO     >> Pre-Training Training accuracy: 0.8135313531353136
+02-04 13-36 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-36 INFO     Epoch: 0 Loss: 0.813132
+02-04 13-36 INFO     Epoch: 1 Loss: 0.644373
+02-04 13-37 INFO     Epoch: 2 Loss: 0.505414
+02-04 13-37 INFO     Epoch: 3 Loss: 0.473762
+02-04 13-37 INFO     Epoch: 4 Loss: 0.479592
+02-04 13-37 INFO     >> Training accuracy: 0.854235
+02-04 13-37 INFO     >> Test accuracy: 0.699900
+02-04 13-37 INFO      ** Training complete **
+02-04 13-37 INFO     net 1 final test acc 0.699900
+02-04 13-37 INFO     Training network 2. n_training: 1542
+02-04 13-37 INFO     Training network 2
+02-04 13-37 INFO     >> Pre-Training Training accuracy: 0.8054474708171206
+02-04 13-37 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-37 INFO     Epoch: 0 Loss: 0.821833
+02-04 13-37 INFO     Epoch: 1 Loss: 0.709349
+02-04 13-37 INFO     Epoch: 2 Loss: 0.625269
+02-04 13-37 INFO     Epoch: 3 Loss: 0.685486
+02-04 13-37 INFO     Epoch: 4 Loss: 0.599561
+02-04 13-37 INFO     >> Training accuracy: 0.727626
+02-04 13-37 INFO     >> Test accuracy: 0.633200
+02-04 13-37 INFO      ** Training complete **
+02-04 13-37 INFO     net 2 final test acc 0.633200
+02-04 13-37 INFO     Training network 3. n_training: 1857
+02-04 13-37 INFO     Training network 3
+02-04 13-37 INFO     >> Pre-Training Training accuracy: 0.819601507808293
+02-04 13-37 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-37 INFO     Epoch: 0 Loss: 0.780436
+02-04 13-37 INFO     Epoch: 1 Loss: 0.704960
+02-04 13-37 INFO     Epoch: 2 Loss: 0.818099
+02-04 13-37 INFO     Epoch: 3 Loss: 0.807825
+02-04 13-37 INFO     Epoch: 4 Loss: 0.677791
+02-04 13-37 INFO     >> Training accuracy: 0.707054
+02-04 13-37 INFO     >> Test accuracy: 0.607600
+02-04 13-37 INFO      ** Training complete **
+02-04 13-37 INFO     net 3 final test acc 0.607600
+02-04 13-37 INFO     Training network 4. n_training: 1592
+02-04 13-37 INFO     Training network 4
+02-04 13-37 INFO     >> Pre-Training Training accuracy: 0.8015075376884422
+02-04 13-37 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-37 INFO     Epoch: 0 Loss: 0.813743
+02-04 13-37 INFO     Epoch: 1 Loss: 0.602423
+02-04 13-37 INFO     Epoch: 2 Loss: 0.487894
+02-04 13-37 INFO     Epoch: 3 Loss: 0.419489
+02-04 13-37 INFO     Epoch: 4 Loss: 0.380716
+02-04 13-37 INFO     >> Training accuracy: 0.841709
+02-04 13-37 INFO     >> Test accuracy: 0.675800
+02-04 13-37 INFO      ** Training complete **
+02-04 13-37 INFO     net 4 final test acc 0.675800
+02-04 13-37 INFO     Training network 5. n_training: 1750
+02-04 13-37 INFO     Training network 5
+02-04 13-37 INFO     >> Pre-Training Training accuracy: 0.8051428571428572
+02-04 13-37 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-37 INFO     Epoch: 0 Loss: 0.791763
+02-04 13-37 INFO     Epoch: 1 Loss: 0.590202
+02-04 13-37 INFO     Epoch: 2 Loss: 0.496251
+02-04 13-37 INFO     Epoch: 3 Loss: 0.492409
+02-04 13-37 INFO     Epoch: 4 Loss: 0.405871
+02-04 13-37 INFO     >> Training accuracy: 0.829714
+02-04 13-37 INFO     >> Test accuracy: 0.682700
+02-04 13-37 INFO      ** Training complete **
+02-04 13-37 INFO     net 5 final test acc 0.682700
+02-04 13-37 INFO     Training network 6. n_training: 1612
+02-04 13-37 INFO     Training network 6
+02-04 13-37 INFO     >> Pre-Training Training accuracy: 0.8014888337468983
+02-04 13-37 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-37 INFO     Epoch: 0 Loss: 0.854976
+02-04 13-38 INFO     Epoch: 1 Loss: 0.637024
+02-04 13-38 INFO     Epoch: 2 Loss: 0.637336
+02-04 13-38 INFO     Epoch: 3 Loss: 0.576696
+02-04 13-38 INFO     Epoch: 4 Loss: 0.504499
+02-04 13-38 INFO     >> Training accuracy: 0.880273
+02-04 13-38 INFO     >> Test accuracy: 0.727400
+02-04 13-38 INFO      ** Training complete **
+02-04 13-38 INFO     net 6 final test acc 0.727400
+02-04 13-38 INFO     Training network 7. n_training: 1709
+02-04 13-38 INFO     Training network 7
+02-04 13-38 INFO     >> Pre-Training Training accuracy: 0.8110005851375073
+02-04 13-38 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-38 INFO     Epoch: 0 Loss: 0.787548
+02-04 13-38 INFO     Epoch: 1 Loss: 0.580381
+02-04 13-38 INFO     Epoch: 2 Loss: 0.456250
+02-04 13-38 INFO     Epoch: 3 Loss: 0.463113
+02-04 13-38 INFO     Epoch: 4 Loss: 0.428406
+02-04 13-38 INFO     >> Training accuracy: 0.873025
+02-04 13-38 INFO     >> Test accuracy: 0.672800
+02-04 13-38 INFO      ** Training complete **
+02-04 13-38 INFO     net 7 final test acc 0.672800
+02-04 13-38 INFO     Training network 8. n_training: 1554
+02-04 13-38 INFO     Training network 8
+02-04 13-38 INFO     >> Pre-Training Training accuracy: 0.8075933075933076
+02-04 13-38 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-38 INFO     Epoch: 0 Loss: 0.837255
+02-04 13-38 INFO     Epoch: 1 Loss: 0.632117
+02-04 13-38 INFO     Epoch: 2 Loss: 0.516469
+02-04 13-38 INFO     Epoch: 3 Loss: 0.424386
+02-04 13-38 INFO     Epoch: 4 Loss: 0.439319
+02-04 13-38 INFO     >> Training accuracy: 0.823037
+02-04 13-38 INFO     >> Test accuracy: 0.695300
+02-04 13-38 INFO      ** Training complete **
+02-04 13-38 INFO     net 8 final test acc 0.695300
+02-04 13-38 INFO     Training network 9. n_training: 1667
+02-04 13-38 INFO     Training network 9
+02-04 13-38 INFO     >> Pre-Training Training accuracy: 0.79124175164967
+02-04 13-38 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-38 INFO     Epoch: 0 Loss: 0.860836
+02-04 13-38 INFO     Epoch: 1 Loss: 0.743801
+02-04 13-38 INFO     Epoch: 2 Loss: 0.699995
+02-04 13-38 INFO     Epoch: 3 Loss: 0.761322
+02-04 13-38 INFO     Epoch: 4 Loss: 0.693677
+02-04 13-38 INFO     >> Training accuracy: 0.819436
+02-04 13-38 INFO     >> Test accuracy: 0.686900
+02-04 13-38 INFO      ** Training complete **
+02-04 13-38 INFO     net 9 final test acc 0.686900
+02-04 13-38 INFO     Training network 10. n_training: 1672
+02-04 13-38 INFO     Training network 10
+02-04 13-38 INFO     >> Pre-Training Training accuracy: 0.8104066985645934
+02-04 13-38 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-38 INFO     Epoch: 0 Loss: 0.830985
+02-04 13-38 INFO     Epoch: 1 Loss: 0.670358
+02-04 13-38 INFO     Epoch: 2 Loss: 0.637572
+02-04 13-38 INFO     Epoch: 3 Loss: 0.627363
+02-04 13-38 INFO     Epoch: 4 Loss: 0.544802
+02-04 13-38 INFO     >> Training accuracy: 0.818182
+02-04 13-38 INFO     >> Test accuracy: 0.629700
+02-04 13-38 INFO      ** Training complete **
+02-04 13-38 INFO     net 10 final test acc 0.629700
+02-04 13-38 INFO     Training network 11. n_training: 1746
+02-04 13-38 INFO     Training network 11
+02-04 13-38 INFO     >> Pre-Training Training accuracy: 0.8207331042382588
+02-04 13-38 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-38 INFO     Epoch: 0 Loss: 0.794961
+02-04 13-38 INFO     Epoch: 1 Loss: 0.586234
+02-04 13-39 INFO     Epoch: 2 Loss: 0.514263
+02-04 13-39 INFO     Epoch: 3 Loss: 0.473553
+02-04 13-39 INFO     Epoch: 4 Loss: 0.371908
+02-04 13-39 INFO     >> Training accuracy: 0.863116
+02-04 13-39 INFO     >> Test accuracy: 0.708100
+02-04 13-39 INFO      ** Training complete **
+02-04 13-39 INFO     net 11 final test acc 0.708100
+02-04 13-39 INFO     Training network 12. n_training: 1709
+02-04 13-39 INFO     Training network 12
+02-04 13-39 INFO     >> Pre-Training Training accuracy: 0.8086600351082505
+02-04 13-39 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-39 INFO     Epoch: 0 Loss: 0.781968
+02-04 13-39 INFO     Epoch: 1 Loss: 0.573439
+02-04 13-39 INFO     Epoch: 2 Loss: 0.482667
+02-04 13-39 INFO     Epoch: 3 Loss: 0.399337
+02-04 13-39 INFO     Epoch: 4 Loss: 0.377941
+02-04 13-39 INFO     >> Training accuracy: 0.824459
+02-04 13-39 INFO     >> Test accuracy: 0.650600
+02-04 13-39 INFO      ** Training complete **
+02-04 13-39 INFO     net 12 final test acc 0.650600
+02-04 13-39 INFO     Training network 13. n_training: 1744
+02-04 13-39 INFO     Training network 13
+02-04 13-39 INFO     >> Pre-Training Training accuracy: 0.7970183486238532
+02-04 13-39 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-39 INFO     Epoch: 0 Loss: 0.788980
+02-04 13-39 INFO     Epoch: 1 Loss: 0.599812
+02-04 13-39 INFO     Epoch: 2 Loss: 0.529929
+02-04 13-39 INFO     Epoch: 3 Loss: 0.506683
+02-04 13-39 INFO     Epoch: 4 Loss: 0.388167
+02-04 13-39 INFO     >> Training accuracy: 0.883028
+02-04 13-39 INFO     >> Test accuracy: 0.667500
+02-04 13-39 INFO      ** Training complete **
+02-04 13-39 INFO     net 13 final test acc 0.667500
+02-04 13-39 INFO     Training network 14. n_training: 1784
+02-04 13-39 INFO     Training network 14
+02-04 13-39 INFO     >> Pre-Training Training accuracy: 0.82847533632287
+02-04 13-39 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-39 INFO     Epoch: 0 Loss: 0.754246
+02-04 13-39 INFO     Epoch: 1 Loss: 0.534311
+02-04 13-39 INFO     Epoch: 2 Loss: 0.427830
+02-04 13-39 INFO     Epoch: 3 Loss: 0.420344
+02-04 13-39 INFO     Epoch: 4 Loss: 0.360475
+02-04 13-39 INFO     >> Training accuracy: 0.880045
+02-04 13-39 INFO     >> Test accuracy: 0.712100
+02-04 13-39 INFO      ** Training complete **
+02-04 13-39 INFO     net 14 final test acc 0.712100
+02-04 13-39 INFO     Training network 15. n_training: 1835
+02-04 13-39 INFO     Training network 15
+02-04 13-39 INFO     >> Pre-Training Training accuracy: 0.8158038147138964
+02-04 13-39 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-39 INFO     Epoch: 0 Loss: 0.749650
+02-04 13-39 INFO     Epoch: 1 Loss: 0.569708
+02-04 13-39 INFO     Epoch: 2 Loss: 0.467647
+02-04 13-39 INFO     Epoch: 3 Loss: 0.390476
+02-04 13-39 INFO     Epoch: 4 Loss: 0.376436
+02-04 13-39 INFO     >> Training accuracy: 0.833243
+02-04 13-39 INFO     >> Test accuracy: 0.698700
+02-04 13-39 INFO      ** Training complete **
+02-04 13-39 INFO     net 15 final test acc 0.698700
+02-04 13-39 INFO     Training network 16. n_training: 1358
+02-04 13-39 INFO     Training network 16
+02-04 13-39 INFO     >> Pre-Training Training accuracy: 0.8033873343151694
+02-04 13-39 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-40 INFO     Epoch: 0 Loss: 0.853444
+02-04 13-40 INFO     Epoch: 1 Loss: 0.607528
+02-04 13-40 INFO     Epoch: 2 Loss: 0.539057
+02-04 13-40 INFO     Epoch: 3 Loss: 0.500989
+02-04 13-40 INFO     Epoch: 4 Loss: 0.474494
+02-04 13-40 INFO     >> Training accuracy: 0.791605
+02-04 13-40 INFO     >> Test accuracy: 0.637400
+02-04 13-40 INFO      ** Training complete **
+02-04 13-40 INFO     net 16 final test acc 0.637400
+02-04 13-40 INFO     Training network 17. n_training: 1751
+02-04 13-40 INFO     Training network 17
+02-04 13-40 INFO     >> Pre-Training Training accuracy: 0.7904054825813821
+02-04 13-40 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-40 INFO     Epoch: 0 Loss: 0.859345
+02-04 13-40 INFO     Epoch: 1 Loss: 0.604108
+02-04 13-40 INFO     Epoch: 2 Loss: 0.478897
+02-04 13-40 INFO     Epoch: 3 Loss: 0.494411
+02-04 13-40 INFO     Epoch: 4 Loss: 0.444059
+02-04 13-40 INFO     >> Training accuracy: 0.821245
+02-04 13-40 INFO     >> Test accuracy: 0.602900
+02-04 13-40 INFO      ** Training complete **
+02-04 13-40 INFO     net 17 final test acc 0.602900
+02-04 13-40 INFO     Training network 18. n_training: 1531
+02-04 13-40 INFO     Training network 18
+02-04 13-40 INFO     >> Pre-Training Training accuracy: 0.8151534944480732
+02-04 13-40 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-40 INFO     Epoch: 0 Loss: 0.741091
+02-04 13-40 INFO     Epoch: 1 Loss: 0.590060
+02-04 13-40 INFO     Epoch: 2 Loss: 0.447899
+02-04 13-40 INFO     Epoch: 3 Loss: 0.351278
+02-04 13-40 INFO     Epoch: 4 Loss: 0.301324
+02-04 13-40 INFO     >> Training accuracy: 0.905944
+02-04 13-40 INFO     >> Test accuracy: 0.754000
+02-04 13-40 INFO      ** Training complete **
+02-04 13-40 INFO     net 18 final test acc 0.754000
+02-04 13-40 INFO     Training network 19. n_training: 1581
+02-04 13-40 INFO     Training network 19
+02-04 13-40 INFO     >> Pre-Training Training accuracy: 0.8115117014547755
+02-04 13-40 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-40 INFO     Epoch: 0 Loss: 0.766487
+02-04 13-40 INFO     Epoch: 1 Loss: 0.530597
+02-04 13-40 INFO     Epoch: 2 Loss: 0.421517
+02-04 13-40 INFO     Epoch: 3 Loss: 0.392406
+02-04 13-40 INFO     Epoch: 4 Loss: 0.310375
+02-04 13-40 INFO     >> Training accuracy: 0.912081
+02-04 13-40 INFO     >> Test accuracy: 0.725400
+02-04 13-40 INFO      ** Training complete **
+02-04 13-40 INFO     net 19 final test acc 0.725400
+02-04 13-40 INFO     Training network 20. n_training: 1741
+02-04 13-40 INFO     Training network 20
+02-04 13-40 INFO     >> Pre-Training Training accuracy: 0.80413555427915
+02-04 13-40 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-40 INFO     Epoch: 0 Loss: 0.856217
+02-04 13-40 INFO     Epoch: 1 Loss: 0.673737
+02-04 13-40 INFO     Epoch: 2 Loss: 0.587415
+02-04 13-40 INFO     Epoch: 3 Loss: 0.548340
+02-04 13-40 INFO     Epoch: 4 Loss: 0.461725
+02-04 13-40 INFO     >> Training accuracy: 0.846640
+02-04 13-40 INFO     >> Test accuracy: 0.645200
+02-04 13-40 INFO      ** Training complete **
+02-04 13-40 INFO     net 20 final test acc 0.645200
+02-04 13-40 INFO     Training network 21. n_training: 1799
+02-04 13-40 INFO     Training network 21
+02-04 13-40 INFO     >> Pre-Training Training accuracy: 0.8032240133407449
+02-04 13-40 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-40 INFO     Epoch: 0 Loss: 0.807297
+02-04 13-40 INFO     Epoch: 1 Loss: 0.672306
+02-04 13-41 INFO     Epoch: 2 Loss: 0.647728
+02-04 13-41 INFO     Epoch: 3 Loss: 0.577578
+02-04 13-41 INFO     Epoch: 4 Loss: 0.625481
+02-04 13-41 INFO     >> Training accuracy: 0.818232
+02-04 13-41 INFO     >> Test accuracy: 0.698300
+02-04 13-41 INFO      ** Training complete **
+02-04 13-41 INFO     net 21 final test acc 0.698300
+02-04 13-41 INFO     Training network 22. n_training: 1904
+02-04 13-41 INFO     Training network 22
+02-04 13-41 INFO     >> Pre-Training Training accuracy: 0.7972689075630253
+02-04 13-41 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-41 INFO     Epoch: 0 Loss: 0.789677
+02-04 13-41 INFO     Epoch: 1 Loss: 0.594158
+02-04 13-41 INFO     Epoch: 2 Loss: 0.512805
+02-04 13-41 INFO     Epoch: 3 Loss: 0.456967
+02-04 13-41 INFO     Epoch: 4 Loss: 0.404267
+02-04 13-41 INFO     >> Training accuracy: 0.859769
+02-04 13-41 INFO     >> Test accuracy: 0.717100
+02-04 13-41 INFO      ** Training complete **
+02-04 13-41 INFO     net 22 final test acc 0.717100
+02-04 13-41 INFO     Training network 23. n_training: 1562
+02-04 13-41 INFO     Training network 23
+02-04 13-41 INFO     >> Pre-Training Training accuracy: 0.8104993597951344
+02-04 13-41 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-41 INFO     Epoch: 0 Loss: 0.797245
+02-04 13-41 INFO     Epoch: 1 Loss: 0.564495
+02-04 13-41 INFO     Epoch: 2 Loss: 0.482317
+02-04 13-41 INFO     Epoch: 3 Loss: 0.425332
+02-04 13-41 INFO     Epoch: 4 Loss: 0.351821
+02-04 13-41 INFO     >> Training accuracy: 0.859795
+02-04 13-41 INFO     >> Test accuracy: 0.677200
+02-04 13-41 INFO      ** Training complete **
+02-04 13-41 INFO     net 23 final test acc 0.677200
+02-04 13-41 INFO     Training network 24. n_training: 1504
+02-04 13-41 INFO     Training network 24
+02-04 13-41 INFO     >> Pre-Training Training accuracy: 0.7978723404255319
+02-04 13-41 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-41 INFO     Epoch: 0 Loss: 0.840615
+02-04 13-41 INFO     Epoch: 1 Loss: 0.613328
+02-04 13-41 INFO     Epoch: 2 Loss: 0.490052
+02-04 13-41 INFO     Epoch: 3 Loss: 0.429339
+02-04 13-41 INFO     Epoch: 4 Loss: 0.359779
+02-04 13-41 INFO     >> Training accuracy: 0.906250
+02-04 13-41 INFO     >> Test accuracy: 0.744400
+02-04 13-41 INFO      ** Training complete **
+02-04 13-41 INFO     net 24 final test acc 0.744400
+02-04 13-41 INFO     Training network 25. n_training: 1801
+02-04 13-41 INFO     Training network 25
+02-04 13-41 INFO     >> Pre-Training Training accuracy: 0.8051082731815657
+02-04 13-41 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-41 INFO     Epoch: 0 Loss: 0.782319
+02-04 13-41 INFO     Epoch: 1 Loss: 0.605656
+02-04 13-41 INFO     Epoch: 2 Loss: 0.563886
+02-04 13-41 INFO     Epoch: 3 Loss: 0.520941
+02-04 13-41 INFO     Epoch: 4 Loss: 0.464372
+02-04 13-41 INFO     >> Training accuracy: 0.843976
+02-04 13-41 INFO     >> Test accuracy: 0.704200
+02-04 13-41 INFO      ** Training complete **
+02-04 13-41 INFO     net 25 final test acc 0.704200
+02-04 13-41 INFO     Training network 26. n_training: 1761
+02-04 13-41 INFO     Training network 26
+02-04 13-41 INFO     >> Pre-Training Training accuracy: 0.8160136286201022
+02-04 13-41 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-41 INFO     Epoch: 0 Loss: 0.796921
+02-04 13-41 INFO     Epoch: 1 Loss: 0.584502
+02-04 13-42 INFO     Epoch: 2 Loss: 0.484092
+02-04 13-42 INFO     Epoch: 3 Loss: 0.396099
+02-04 13-42 INFO     Epoch: 4 Loss: 0.348436
+02-04 13-42 INFO     >> Training accuracy: 0.856899
+02-04 13-42 INFO     >> Test accuracy: 0.697600
+02-04 13-42 INFO      ** Training complete **
+02-04 13-42 INFO     net 26 final test acc 0.697600
+02-04 13-42 INFO     Training network 27. n_training: 1518
+02-04 13-42 INFO     Training network 27
+02-04 13-42 INFO     >> Pre-Training Training accuracy: 0.8175230566534915
+02-04 13-42 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-42 INFO     Epoch: 0 Loss: 0.775356
+02-04 13-42 INFO     Epoch: 1 Loss: 0.581424
+02-04 13-42 INFO     Epoch: 2 Loss: 0.460019
+02-04 13-42 INFO     Epoch: 3 Loss: 0.396913
+02-04 13-42 INFO     Epoch: 4 Loss: 0.375617
+02-04 13-42 INFO     >> Training accuracy: 0.875494
+02-04 13-42 INFO     >> Test accuracy: 0.732200
+02-04 13-42 INFO      ** Training complete **
+02-04 13-42 INFO     net 27 final test acc 0.732200
+02-04 13-42 INFO     Training network 28. n_training: 1516
+02-04 13-42 INFO     Training network 28
+02-04 13-42 INFO     >> Pre-Training Training accuracy: 0.7961741424802111
+02-04 13-42 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-42 INFO     Epoch: 0 Loss: 0.842167
+02-04 13-42 INFO     Epoch: 1 Loss: 0.596180
+02-04 13-42 INFO     Epoch: 2 Loss: 0.473774
+02-04 13-42 INFO     Epoch: 3 Loss: 0.425953
+02-04 13-42 INFO     Epoch: 4 Loss: 0.354442
+02-04 13-42 INFO     >> Training accuracy: 0.896438
+02-04 13-42 INFO     >> Test accuracy: 0.717500
+02-04 13-42 INFO      ** Training complete **
+02-04 13-42 INFO     net 28 final test acc 0.717500
+02-04 13-42 INFO     Training network 29. n_training: 1732
+02-04 13-42 INFO     Training network 29
+02-04 13-42 INFO     >> Pre-Training Training accuracy: 0.8077367205542725
+02-04 13-42 INFO     >> Pre-Training Test accuracy: 0.8577
+02-04 13-42 INFO     Epoch: 0 Loss: 0.839629
+02-04 13-42 INFO     Epoch: 1 Loss: 0.768450
+02-04 13-42 INFO     Epoch: 2 Loss: 0.909300
+02-04 13-42 INFO     Epoch: 3 Loss: 0.780976
+02-04 13-42 INFO     Epoch: 4 Loss: 0.838233
+02-04 13-42 INFO     >> Training accuracy: 0.718822
+02-04 13-42 INFO     >> Test accuracy: 0.632900
+02-04 13-42 INFO      ** Training complete **
+02-04 13-42 INFO     net 29 final test acc 0.632900
+02-04 13-42 INFO     global n_training: 782
+02-04 13-42 INFO     global n_test: 313
+02-04 13-43 INFO     >> Global Model Train accuracy: 0.879880
+02-04 13-43 INFO     >> Global Model Test accuracy: 0.863200
+02-04 13-43 INFO     in comm round:35
+02-04 13-43 INFO     Training network 0. n_training: 1350
+02-04 13-43 INFO     Training network 0
+02-04 13-43 INFO     >> Pre-Training Training accuracy: 0.8118518518518518
+02-04 13-43 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-43 INFO     Epoch: 0 Loss: 0.823714
+02-04 13-43 INFO     Epoch: 1 Loss: 0.698511
+02-04 13-43 INFO     Epoch: 2 Loss: 0.707518
+02-04 13-43 INFO     Epoch: 3 Loss: 0.670933
+02-04 13-43 INFO     Epoch: 4 Loss: 0.637267
+02-04 13-43 INFO     >> Training accuracy: 0.802222
+02-04 13-43 INFO     >> Test accuracy: 0.709600
+02-04 13-43 INFO      ** Training complete **
+02-04 13-43 INFO     net 0 final test acc 0.709600
+02-04 13-43 INFO     Training network 1. n_training: 1818
+02-04 13-43 INFO     Training network 1
+02-04 13-43 INFO     >> Pre-Training Training accuracy: 0.8168316831683168
+02-04 13-43 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-43 INFO     Epoch: 0 Loss: 0.809989
+02-04 13-43 INFO     Epoch: 1 Loss: 0.609820
+02-04 13-43 INFO     Epoch: 2 Loss: 0.504204
+02-04 13-43 INFO     Epoch: 3 Loss: 0.451446
+02-04 13-43 INFO     Epoch: 4 Loss: 0.410315
+02-04 13-43 INFO     >> Training accuracy: 0.875688
+02-04 13-43 INFO     >> Test accuracy: 0.718000
+02-04 13-43 INFO      ** Training complete **
+02-04 13-43 INFO     net 1 final test acc 0.718000
+02-04 13-43 INFO     Training network 2. n_training: 1542
+02-04 13-43 INFO     Training network 2
+02-04 13-43 INFO     >> Pre-Training Training accuracy: 0.814526588845655
+02-04 13-43 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-43 INFO     Epoch: 0 Loss: 0.795027
+02-04 13-43 INFO     Epoch: 1 Loss: 0.645410
+02-04 13-43 INFO     Epoch: 2 Loss: 0.563134
+02-04 13-43 INFO     Epoch: 3 Loss: 0.539901
+02-04 13-43 INFO     Epoch: 4 Loss: 0.470107
+02-04 13-43 INFO     >> Training accuracy: 0.865759
+02-04 13-43 INFO     >> Test accuracy: 0.708300
+02-04 13-43 INFO      ** Training complete **
+02-04 13-43 INFO     net 2 final test acc 0.708300
+02-04 13-43 INFO     Training network 3. n_training: 1857
+02-04 13-43 INFO     Training network 3
+02-04 13-43 INFO     >> Pre-Training Training accuracy: 0.8212170166935918
+02-04 13-43 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-43 INFO     Epoch: 0 Loss: 0.824846
+02-04 13-43 INFO     Epoch: 1 Loss: 0.665721
+02-04 13-43 INFO     Epoch: 2 Loss: 0.713030
+02-04 13-43 INFO     Epoch: 3 Loss: 0.726311
+02-04 13-43 INFO     Epoch: 4 Loss: 0.790553
+02-04 13-43 INFO     >> Training accuracy: 0.739365
+02-04 13-43 INFO     >> Test accuracy: 0.636400
+02-04 13-43 INFO      ** Training complete **
+02-04 13-43 INFO     net 3 final test acc 0.636400
+02-04 13-43 INFO     Training network 4. n_training: 1592
+02-04 13-43 INFO     Training network 4
+02-04 13-43 INFO     >> Pre-Training Training accuracy: 0.8077889447236181
+02-04 13-43 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-43 INFO     Epoch: 0 Loss: 0.787930
+02-04 13-43 INFO     Epoch: 1 Loss: 0.581772
+02-04 13-43 INFO     Epoch: 2 Loss: 0.471050
+02-04 13-44 INFO     Epoch: 3 Loss: 0.374986
+02-04 13-44 INFO     Epoch: 4 Loss: 0.355864
+02-04 13-44 INFO     >> Training accuracy: 0.844849
+02-04 13-44 INFO     >> Test accuracy: 0.690800
+02-04 13-44 INFO      ** Training complete **
+02-04 13-44 INFO     net 4 final test acc 0.690800
+02-04 13-44 INFO     Training network 5. n_training: 1750
+02-04 13-44 INFO     Training network 5
+02-04 13-44 INFO     >> Pre-Training Training accuracy: 0.8177142857142857
+02-04 13-44 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-44 INFO     Epoch: 0 Loss: 0.773237
+02-04 13-44 INFO     Epoch: 1 Loss: 0.570255
+02-04 13-44 INFO     Epoch: 2 Loss: 0.484639
+02-04 13-44 INFO     Epoch: 3 Loss: 0.483009
+02-04 13-44 INFO     Epoch: 4 Loss: 0.397843
+02-04 13-44 INFO     >> Training accuracy: 0.847429
+02-04 13-44 INFO     >> Test accuracy: 0.696100
+02-04 13-44 INFO      ** Training complete **
+02-04 13-44 INFO     net 5 final test acc 0.696100
+02-04 13-44 INFO     Training network 6. n_training: 1612
+02-04 13-44 INFO     Training network 6
+02-04 13-44 INFO     >> Pre-Training Training accuracy: 0.7996277915632755
+02-04 13-44 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-44 INFO     Epoch: 0 Loss: 0.818414
+02-04 13-44 INFO     Epoch: 1 Loss: 0.643990
+02-04 13-44 INFO     Epoch: 2 Loss: 0.550583
+02-04 13-44 INFO     Epoch: 3 Loss: 0.541394
+02-04 13-44 INFO     Epoch: 4 Loss: 0.452436
+02-04 13-44 INFO     >> Training accuracy: 0.843052
+02-04 13-44 INFO     >> Test accuracy: 0.727900
+02-04 13-44 INFO      ** Training complete **
+02-04 13-44 INFO     net 6 final test acc 0.727900
+02-04 13-44 INFO     Training network 7. n_training: 1709
+02-04 13-44 INFO     Training network 7
+02-04 13-44 INFO     >> Pre-Training Training accuracy: 0.815681685196021
+02-04 13-44 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-44 INFO     Epoch: 0 Loss: 0.761827
+02-04 13-44 INFO     Epoch: 1 Loss: 0.604716
+02-04 13-44 INFO     Epoch: 2 Loss: 0.481336
+02-04 13-44 INFO     Epoch: 3 Loss: 0.382626
+02-04 13-44 INFO     Epoch: 4 Loss: 0.346379
+02-04 13-44 INFO     >> Training accuracy: 0.887068
+02-04 13-44 INFO     >> Test accuracy: 0.696400
+02-04 13-44 INFO      ** Training complete **
+02-04 13-44 INFO     net 7 final test acc 0.696400
+02-04 13-44 INFO     Training network 8. n_training: 1554
+02-04 13-44 INFO     Training network 8
+02-04 13-44 INFO     >> Pre-Training Training accuracy: 0.8114543114543115
+02-04 13-44 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-44 INFO     Epoch: 0 Loss: 0.828852
+02-04 13-44 INFO     Epoch: 1 Loss: 0.595942
+02-04 13-44 INFO     Epoch: 2 Loss: 0.475153
+02-04 13-44 INFO     Epoch: 3 Loss: 0.470366
+02-04 13-44 INFO     Epoch: 4 Loss: 0.385970
+02-04 13-44 INFO     >> Training accuracy: 0.870013
+02-04 13-44 INFO     >> Test accuracy: 0.705400
+02-04 13-44 INFO      ** Training complete **
+02-04 13-44 INFO     net 8 final test acc 0.705400
+02-04 13-44 INFO     Training network 9. n_training: 1667
+02-04 13-44 INFO     Training network 9
+02-04 13-44 INFO     >> Pre-Training Training accuracy: 0.7900419916016796
+02-04 13-44 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-44 INFO     Epoch: 0 Loss: 0.827118
+02-04 13-44 INFO     Epoch: 1 Loss: 0.671035
+02-04 13-44 INFO     Epoch: 2 Loss: 0.646276
+02-04 13-44 INFO     Epoch: 3 Loss: 0.771101
+02-04 13-44 INFO     Epoch: 4 Loss: 0.752734
+02-04 13-45 INFO     >> Training accuracy: 0.842831
+02-04 13-45 INFO     >> Test accuracy: 0.690200
+02-04 13-45 INFO      ** Training complete **
+02-04 13-45 INFO     net 9 final test acc 0.690200
+02-04 13-45 INFO     Training network 10. n_training: 1672
+02-04 13-45 INFO     Training network 10
+02-04 13-45 INFO     >> Pre-Training Training accuracy: 0.812200956937799
+02-04 13-45 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-45 INFO     Epoch: 0 Loss: 0.835396
+02-04 13-45 INFO     Epoch: 1 Loss: 0.669255
+02-04 13-45 INFO     Epoch: 2 Loss: 0.604877
+02-04 13-45 INFO     Epoch: 3 Loss: 0.577735
+02-04 13-45 INFO     Epoch: 4 Loss: 0.488981
+02-04 13-45 INFO     >> Training accuracy: 0.863038
+02-04 13-45 INFO     >> Test accuracy: 0.686500
+02-04 13-45 INFO      ** Training complete **
+02-04 13-45 INFO     net 10 final test acc 0.686500
+02-04 13-45 INFO     Training network 11. n_training: 1746
+02-04 13-45 INFO     Training network 11
+02-04 13-45 INFO     >> Pre-Training Training accuracy: 0.8258877434135166
+02-04 13-45 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-45 INFO     Epoch: 0 Loss: 0.807852
+02-04 13-45 INFO     Epoch: 1 Loss: 0.585623
+02-04 13-45 INFO     Epoch: 2 Loss: 0.498445
+02-04 13-45 INFO     Epoch: 3 Loss: 0.427612
+02-04 13-45 INFO     Epoch: 4 Loss: 0.377743
+02-04 13-45 INFO     >> Training accuracy: 0.903207
+02-04 13-45 INFO     >> Test accuracy: 0.746100
+02-04 13-45 INFO      ** Training complete **
+02-04 13-45 INFO     net 11 final test acc 0.746100
+02-04 13-45 INFO     Training network 12. n_training: 1709
+02-04 13-45 INFO     Training network 12
+02-04 13-45 INFO     >> Pre-Training Training accuracy: 0.8110005851375073
+02-04 13-45 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-45 INFO     Epoch: 0 Loss: 0.785619
+02-04 13-45 INFO     Epoch: 1 Loss: 0.559578
+02-04 13-45 INFO     Epoch: 2 Loss: 0.447961
+02-04 13-45 INFO     Epoch: 3 Loss: 0.393521
+02-04 13-45 INFO     Epoch: 4 Loss: 0.370020
+02-04 13-45 INFO     >> Training accuracy: 0.893505
+02-04 13-45 INFO     >> Test accuracy: 0.731800
+02-04 13-45 INFO      ** Training complete **
+02-04 13-45 INFO     net 12 final test acc 0.731800
+02-04 13-45 INFO     Training network 13. n_training: 1744
+02-04 13-45 INFO     Training network 13
+02-04 13-45 INFO     >> Pre-Training Training accuracy: 0.8096330275229358
+02-04 13-45 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-45 INFO     Epoch: 0 Loss: 0.810259
+02-04 13-45 INFO     Epoch: 1 Loss: 0.592836
+02-04 13-45 INFO     Epoch: 2 Loss: 0.487635
+02-04 13-45 INFO     Epoch: 3 Loss: 0.423475
+02-04 13-45 INFO     Epoch: 4 Loss: 0.415225
+02-04 13-45 INFO     >> Training accuracy: 0.842317
+02-04 13-45 INFO     >> Test accuracy: 0.638600
+02-04 13-45 INFO      ** Training complete **
+02-04 13-45 INFO     net 13 final test acc 0.638600
+02-04 13-45 INFO     Training network 14. n_training: 1784
+02-04 13-45 INFO     Training network 14
+02-04 13-45 INFO     >> Pre-Training Training accuracy: 0.8267937219730942
+02-04 13-45 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-45 INFO     Epoch: 0 Loss: 0.750413
+02-04 13-45 INFO     Epoch: 1 Loss: 0.513080
+02-04 13-45 INFO     Epoch: 2 Loss: 0.454630
+02-04 13-45 INFO     Epoch: 3 Loss: 0.390592
+02-04 13-45 INFO     Epoch: 4 Loss: 0.389803
+02-04 13-46 INFO     >> Training accuracy: 0.857623
+02-04 13-46 INFO     >> Test accuracy: 0.704400
+02-04 13-46 INFO      ** Training complete **
+02-04 13-46 INFO     net 14 final test acc 0.704400
+02-04 13-46 INFO     Training network 15. n_training: 1835
+02-04 13-46 INFO     Training network 15
+02-04 13-46 INFO     >> Pre-Training Training accuracy: 0.8217983651226158
+02-04 13-46 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-46 INFO     Epoch: 0 Loss: 0.734029
+02-04 13-46 INFO     Epoch: 1 Loss: 0.522270
+02-04 13-46 INFO     Epoch: 2 Loss: 0.466810
+02-04 13-46 INFO     Epoch: 3 Loss: 0.399153
+02-04 13-46 INFO     Epoch: 4 Loss: 0.322988
+02-04 13-46 INFO     >> Training accuracy: 0.899183
+02-04 13-46 INFO     >> Test accuracy: 0.745200
+02-04 13-46 INFO      ** Training complete **
+02-04 13-46 INFO     net 15 final test acc 0.745200
+02-04 13-46 INFO     Training network 16. n_training: 1358
+02-04 13-46 INFO     Training network 16
+02-04 13-46 INFO     >> Pre-Training Training accuracy: 0.804860088365243
+02-04 13-46 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-46 INFO     Epoch: 0 Loss: 0.856969
+02-04 13-46 INFO     Epoch: 1 Loss: 0.575372
+02-04 13-46 INFO     Epoch: 2 Loss: 0.432086
+02-04 13-46 INFO     Epoch: 3 Loss: 0.374676
+02-04 13-46 INFO     Epoch: 4 Loss: 0.348588
+02-04 13-46 INFO     >> Training accuracy: 0.835788
+02-04 13-46 INFO     >> Test accuracy: 0.666300
+02-04 13-46 INFO      ** Training complete **
+02-04 13-46 INFO     net 16 final test acc 0.666300
+02-04 13-46 INFO     Training network 17. n_training: 1751
+02-04 13-46 INFO     Training network 17
+02-04 13-46 INFO     >> Pre-Training Training accuracy: 0.7932609937178755
+02-04 13-46 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-46 INFO     Epoch: 0 Loss: 0.809707
+02-04 13-46 INFO     Epoch: 1 Loss: 0.595352
+02-04 13-46 INFO     Epoch: 2 Loss: 0.497242
+02-04 13-46 INFO     Epoch: 3 Loss: 0.463350
+02-04 13-46 INFO     Epoch: 4 Loss: 0.479244
+02-04 13-46 INFO     >> Training accuracy: 0.847516
+02-04 13-46 INFO     >> Test accuracy: 0.628600
+02-04 13-46 INFO      ** Training complete **
+02-04 13-46 INFO     net 17 final test acc 0.628600
+02-04 13-46 INFO     Training network 18. n_training: 1531
+02-04 13-46 INFO     Training network 18
+02-04 13-46 INFO     >> Pre-Training Training accuracy: 0.8249510124101894
+02-04 13-46 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-46 INFO     Epoch: 0 Loss: 0.736358
+02-04 13-46 INFO     Epoch: 1 Loss: 0.496843
+02-04 13-46 INFO     Epoch: 2 Loss: 0.437896
+02-04 13-46 INFO     Epoch: 3 Loss: 0.364376
+02-04 13-46 INFO     Epoch: 4 Loss: 0.292134
+02-04 13-46 INFO     >> Training accuracy: 0.919007
+02-04 13-46 INFO     >> Test accuracy: 0.752600
+02-04 13-46 INFO      ** Training complete **
+02-04 13-46 INFO     net 18 final test acc 0.752600
+02-04 13-46 INFO     Training network 19. n_training: 1581
+02-04 13-46 INFO     Training network 19
+02-04 13-46 INFO     >> Pre-Training Training accuracy: 0.814674256799494
+02-04 13-46 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-46 INFO     Epoch: 0 Loss: 0.726491
+02-04 13-46 INFO     Epoch: 1 Loss: 0.511609
+02-04 13-46 INFO     Epoch: 2 Loss: 0.447996
+02-04 13-46 INFO     Epoch: 3 Loss: 0.411446
+02-04 13-46 INFO     Epoch: 4 Loss: 0.356144
+02-04 13-46 INFO     >> Training accuracy: 0.884250
+02-04 13-46 INFO     >> Test accuracy: 0.705200
+02-04 13-46 INFO      ** Training complete **
+02-04 13-46 INFO     net 19 final test acc 0.705200
+02-04 13-46 INFO     Training network 20. n_training: 1741
+02-04 13-47 INFO     Training network 20
+02-04 13-47 INFO     >> Pre-Training Training accuracy: 0.7978173463526709
+02-04 13-47 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-47 INFO     Epoch: 0 Loss: 0.829710
+02-04 13-47 INFO     Epoch: 1 Loss: 0.598064
+02-04 13-47 INFO     Epoch: 2 Loss: 0.565653
+02-04 13-47 INFO     Epoch: 3 Loss: 0.442771
+02-04 13-47 INFO     Epoch: 4 Loss: 0.502585
+02-04 13-47 INFO     >> Training accuracy: 0.787478
+02-04 13-47 INFO     >> Test accuracy: 0.624900
+02-04 13-47 INFO      ** Training complete **
+02-04 13-47 INFO     net 20 final test acc 0.624900
+02-04 13-47 INFO     Training network 21. n_training: 1799
+02-04 13-47 INFO     Training network 21
+02-04 13-47 INFO     >> Pre-Training Training accuracy: 0.8015564202334631
+02-04 13-47 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-47 INFO     Epoch: 0 Loss: 0.791776
+02-04 13-47 INFO     Epoch: 1 Loss: 0.794843
+02-04 13-47 INFO     Epoch: 2 Loss: 0.656622
+02-04 13-47 INFO     Epoch: 3 Loss: 0.540495
+02-04 13-47 INFO     Epoch: 4 Loss: 0.516729
+02-04 13-47 INFO     >> Training accuracy: 0.741523
+02-04 13-47 INFO     >> Test accuracy: 0.642800
+02-04 13-47 INFO      ** Training complete **
+02-04 13-47 INFO     net 21 final test acc 0.642800
+02-04 13-47 INFO     Training network 22. n_training: 1904
+02-04 13-47 INFO     Training network 22
+02-04 13-47 INFO     >> Pre-Training Training accuracy: 0.8072478991596639
+02-04 13-47 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-47 INFO     Epoch: 0 Loss: 0.765420
+02-04 13-47 INFO     Epoch: 1 Loss: 0.604073
+02-04 13-47 INFO     Epoch: 2 Loss: 0.491132
+02-04 13-47 INFO     Epoch: 3 Loss: 0.445095
+02-04 13-47 INFO     Epoch: 4 Loss: 0.411359
+02-04 13-47 INFO     >> Training accuracy: 0.868172
+02-04 13-47 INFO     >> Test accuracy: 0.700400
+02-04 13-47 INFO      ** Training complete **
+02-04 13-47 INFO     net 22 final test acc 0.700400
+02-04 13-47 INFO     Training network 23. n_training: 1562
+02-04 13-47 INFO     Training network 23
+02-04 13-47 INFO     >> Pre-Training Training accuracy: 0.821382842509603
+02-04 13-47 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-47 INFO     Epoch: 0 Loss: 0.765052
+02-04 13-47 INFO     Epoch: 1 Loss: 0.567604
+02-04 13-47 INFO     Epoch: 2 Loss: 0.464973
+02-04 13-47 INFO     Epoch: 3 Loss: 0.387951
+02-04 13-47 INFO     Epoch: 4 Loss: 0.345231
+02-04 13-47 INFO     >> Training accuracy: 0.870679
+02-04 13-47 INFO     >> Test accuracy: 0.703000
+02-04 13-47 INFO      ** Training complete **
+02-04 13-47 INFO     net 23 final test acc 0.703000
+02-04 13-47 INFO     Training network 24. n_training: 1504
+02-04 13-47 INFO     Training network 24
+02-04 13-47 INFO     >> Pre-Training Training accuracy: 0.8118351063829787
+02-04 13-47 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-47 INFO     Epoch: 0 Loss: 0.827292
+02-04 13-47 INFO     Epoch: 1 Loss: 0.609462
+02-04 13-47 INFO     Epoch: 2 Loss: 0.424872
+02-04 13-47 INFO     Epoch: 3 Loss: 0.432464
+02-04 13-47 INFO     Epoch: 4 Loss: 0.388697
+02-04 13-47 INFO     >> Training accuracy: 0.869681
+02-04 13-47 INFO     >> Test accuracy: 0.731500
+02-04 13-47 INFO      ** Training complete **
+02-04 13-47 INFO     net 24 final test acc 0.731500
+02-04 13-47 INFO     Training network 25. n_training: 1801
+02-04 13-48 INFO     Training network 25
+02-04 13-48 INFO     >> Pre-Training Training accuracy: 0.8162132148806219
+02-04 13-48 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-48 INFO     Epoch: 0 Loss: 0.774331
+02-04 13-48 INFO     Epoch: 1 Loss: 0.647379
+02-04 13-48 INFO     Epoch: 2 Loss: 0.540108
+02-04 13-48 INFO     Epoch: 3 Loss: 0.455253
+02-04 13-48 INFO     Epoch: 4 Loss: 0.425372
+02-04 13-48 INFO     >> Training accuracy: 0.836757
+02-04 13-48 INFO     >> Test accuracy: 0.687700
+02-04 13-48 INFO      ** Training complete **
+02-04 13-48 INFO     net 25 final test acc 0.687700
+02-04 13-48 INFO     Training network 26. n_training: 1761
+02-04 13-48 INFO     Training network 26
+02-04 13-48 INFO     >> Pre-Training Training accuracy: 0.8165814877910278
+02-04 13-48 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-48 INFO     Epoch: 0 Loss: 0.793466
+02-04 13-48 INFO     Epoch: 1 Loss: 0.578359
+02-04 13-48 INFO     Epoch: 2 Loss: 0.441764
+02-04 13-48 INFO     Epoch: 3 Loss: 0.387233
+02-04 13-48 INFO     Epoch: 4 Loss: 0.419122
+02-04 13-48 INFO     >> Training accuracy: 0.820557
+02-04 13-48 INFO     >> Test accuracy: 0.657000
+02-04 13-48 INFO      ** Training complete **
+02-04 13-48 INFO     net 26 final test acc 0.657000
+02-04 13-48 INFO     Training network 27. n_training: 1518
+02-04 13-48 INFO     Training network 27
+02-04 13-48 INFO     >> Pre-Training Training accuracy: 0.8241106719367589
+02-04 13-48 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-48 INFO     Epoch: 0 Loss: 0.754566
+02-04 13-48 INFO     Epoch: 1 Loss: 0.534530
+02-04 13-48 INFO     Epoch: 2 Loss: 0.479068
+02-04 13-48 INFO     Epoch: 3 Loss: 0.356163
+02-04 13-48 INFO     Epoch: 4 Loss: 0.322058
+02-04 13-48 INFO     >> Training accuracy: 0.866930
+02-04 13-48 INFO     >> Test accuracy: 0.713700
+02-04 13-48 INFO      ** Training complete **
+02-04 13-48 INFO     net 27 final test acc 0.713700
+02-04 13-48 INFO     Training network 28. n_training: 1516
+02-04 13-48 INFO     Training network 28
+02-04 13-48 INFO     >> Pre-Training Training accuracy: 0.7968337730870713
+02-04 13-48 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-48 INFO     Epoch: 0 Loss: 0.842166
+02-04 13-48 INFO     Epoch: 1 Loss: 0.577933
+02-04 13-48 INFO     Epoch: 2 Loss: 0.432030
+02-04 13-48 INFO     Epoch: 3 Loss: 0.398604
+02-04 13-48 INFO     Epoch: 4 Loss: 0.365255
+02-04 13-48 INFO     >> Training accuracy: 0.842348
+02-04 13-48 INFO     >> Test accuracy: 0.655400
+02-04 13-48 INFO      ** Training complete **
+02-04 13-48 INFO     net 28 final test acc 0.655400
+02-04 13-48 INFO     Training network 29. n_training: 1732
+02-04 13-48 INFO     Training network 29
+02-04 13-48 INFO     >> Pre-Training Training accuracy: 0.8215935334872979
+02-04 13-48 INFO     >> Pre-Training Test accuracy: 0.8632
+02-04 13-48 INFO     Epoch: 0 Loss: 0.791137
+02-04 13-48 INFO     Epoch: 1 Loss: 0.609530
+02-04 13-48 INFO     Epoch: 2 Loss: 0.728099
+02-04 13-48 INFO     Epoch: 3 Loss: 0.671809
+02-04 13-48 INFO     Epoch: 4 Loss: 0.558378
+02-04 13-48 INFO     >> Training accuracy: 0.752887
+02-04 13-48 INFO     >> Test accuracy: 0.671600
+02-04 13-48 INFO      ** Training complete **
+02-04 13-48 INFO     net 29 final test acc 0.671600
+02-04 13-49 INFO     global n_training: 782
+02-04 13-49 INFO     global n_test: 313
+02-04 13-49 INFO     >> Global Model Train accuracy: 0.883440
+02-04 13-49 INFO     >> Global Model Test accuracy: 0.865300
+02-04 13-49 INFO     in comm round:36
+02-04 13-49 INFO     Training network 0. n_training: 1350
+02-04 13-49 INFO     Training network 0
+02-04 13-49 INFO     >> Pre-Training Training accuracy: 0.8088888888888889
+02-04 13-49 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-49 INFO     Epoch: 0 Loss: 0.858629
+02-04 13-49 INFO     Epoch: 1 Loss: 0.687972
+02-04 13-49 INFO     Epoch: 2 Loss: 0.554822
+02-04 13-49 INFO     Epoch: 3 Loss: 0.540078
+02-04 13-49 INFO     Epoch: 4 Loss: 0.645695
+02-04 13-49 INFO     >> Training accuracy: 0.807407
+02-04 13-49 INFO     >> Test accuracy: 0.696300
+02-04 13-49 INFO      ** Training complete **
+02-04 13-49 INFO     net 0 final test acc 0.696300
+02-04 13-49 INFO     Training network 1. n_training: 1818
+02-04 13-49 INFO     Training network 1
+02-04 13-49 INFO     >> Pre-Training Training accuracy: 0.8135313531353136
+02-04 13-49 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-49 INFO     Epoch: 0 Loss: 0.827651
+02-04 13-49 INFO     Epoch: 1 Loss: 0.575060
+02-04 13-49 INFO     Epoch: 2 Loss: 0.450841
+02-04 13-49 INFO     Epoch: 3 Loss: 0.448742
+02-04 13-49 INFO     Epoch: 4 Loss: 0.415349
+02-04 13-49 INFO     >> Training accuracy: 0.875138
+02-04 13-49 INFO     >> Test accuracy: 0.715600
+02-04 13-49 INFO      ** Training complete **
+02-04 13-49 INFO     net 1 final test acc 0.715600
+02-04 13-49 INFO     Training network 2. n_training: 1542
+02-04 13-49 INFO     Training network 2
+02-04 13-49 INFO     >> Pre-Training Training accuracy: 0.8132295719844358
+02-04 13-49 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-49 INFO     Epoch: 0 Loss: 0.804899
+02-04 13-49 INFO     Epoch: 1 Loss: 0.655781
+02-04 13-49 INFO     Epoch: 2 Loss: 0.544305
+02-04 13-49 INFO     Epoch: 3 Loss: 0.474101
+02-04 13-49 INFO     Epoch: 4 Loss: 0.528186
+02-04 13-49 INFO     >> Training accuracy: 0.824903
+02-04 13-49 INFO     >> Test accuracy: 0.693000
+02-04 13-49 INFO      ** Training complete **
+02-04 13-49 INFO     net 2 final test acc 0.693000
+02-04 13-49 INFO     Training network 3. n_training: 1857
+02-04 13-50 INFO     Training network 3
+02-04 13-50 INFO     >> Pre-Training Training accuracy: 0.8244480344641896
+02-04 13-50 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-50 INFO     Epoch: 0 Loss: 0.815378
+02-04 13-50 INFO     Epoch: 1 Loss: 0.749337
+02-04 13-50 INFO     Epoch: 2 Loss: 0.848756
+02-04 13-50 INFO     Epoch: 3 Loss: 0.776022
+02-04 13-50 INFO     Epoch: 4 Loss: 0.727806
+02-04 13-50 INFO     >> Training accuracy: 0.818525
+02-04 13-50 INFO     >> Test accuracy: 0.703800
+02-04 13-50 INFO      ** Training complete **
+02-04 13-50 INFO     net 3 final test acc 0.703800
+02-04 13-50 INFO     Training network 4. n_training: 1592
+02-04 13-50 INFO     Training network 4
+02-04 13-50 INFO     >> Pre-Training Training accuracy: 0.8121859296482412
+02-04 13-50 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-50 INFO     Epoch: 0 Loss: 0.800869
+02-04 13-50 INFO     Epoch: 1 Loss: 0.541591
+02-04 13-50 INFO     Epoch: 2 Loss: 0.434896
+02-04 13-50 INFO     Epoch: 3 Loss: 0.369509
+02-04 13-50 INFO     Epoch: 4 Loss: 0.316499
+02-04 13-50 INFO     >> Training accuracy: 0.840452
+02-04 13-50 INFO     >> Test accuracy: 0.675400
+02-04 13-50 INFO      ** Training complete **
+02-04 13-50 INFO     net 4 final test acc 0.675400
+02-04 13-50 INFO     Training network 5. n_training: 1750
+02-04 13-50 INFO     Training network 5
+02-04 13-50 INFO     >> Pre-Training Training accuracy: 0.8108571428571428
+02-04 13-50 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-50 INFO     Epoch: 0 Loss: 0.767078
+02-04 13-50 INFO     Epoch: 1 Loss: 0.576947
+02-04 13-50 INFO     Epoch: 2 Loss: 0.464263
+02-04 13-50 INFO     Epoch: 3 Loss: 0.429793
+02-04 13-50 INFO     Epoch: 4 Loss: 0.447178
+02-04 13-50 INFO     >> Training accuracy: 0.846857
+02-04 13-50 INFO     >> Test accuracy: 0.695800
+02-04 13-50 INFO      ** Training complete **
+02-04 13-50 INFO     net 5 final test acc 0.695800
+02-04 13-50 INFO     Training network 6. n_training: 1612
+02-04 13-50 INFO     Training network 6
+02-04 13-50 INFO     >> Pre-Training Training accuracy: 0.8200992555831266
+02-04 13-50 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-50 INFO     Epoch: 0 Loss: 0.857468
+02-04 13-50 INFO     Epoch: 1 Loss: 0.603398
+02-04 13-50 INFO     Epoch: 2 Loss: 0.539555
+02-04 13-50 INFO     Epoch: 3 Loss: 0.451928
+02-04 13-50 INFO     Epoch: 4 Loss: 0.383303
+02-04 13-50 INFO     >> Training accuracy: 0.895782
+02-04 13-50 INFO     >> Test accuracy: 0.745300
+02-04 13-50 INFO      ** Training complete **
+02-04 13-50 INFO     net 6 final test acc 0.745300
+02-04 13-50 INFO     Training network 7. n_training: 1709
+02-04 13-50 INFO     Training network 7
+02-04 13-50 INFO     >> Pre-Training Training accuracy: 0.8168519602106495
+02-04 13-50 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-50 INFO     Epoch: 0 Loss: 0.762172
+02-04 13-50 INFO     Epoch: 1 Loss: 0.548350
+02-04 13-50 INFO     Epoch: 2 Loss: 0.478860
+02-04 13-50 INFO     Epoch: 3 Loss: 0.393427
+02-04 13-50 INFO     Epoch: 4 Loss: 0.318768
+02-04 13-50 INFO     >> Training accuracy: 0.902867
+02-04 13-50 INFO     >> Test accuracy: 0.713700
+02-04 13-50 INFO      ** Training complete **
+02-04 13-50 INFO     net 7 final test acc 0.713700
+02-04 13-50 INFO     Training network 8. n_training: 1554
+02-04 13-51 INFO     Training network 8
+02-04 13-51 INFO     >> Pre-Training Training accuracy: 0.805019305019305
+02-04 13-51 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-51 INFO     Epoch: 0 Loss: 0.779397
+02-04 13-51 INFO     Epoch: 1 Loss: 0.595821
+02-04 13-51 INFO     Epoch: 2 Loss: 0.453364
+02-04 13-51 INFO     Epoch: 3 Loss: 0.383735
+02-04 13-51 INFO     Epoch: 4 Loss: 0.397240
+02-04 13-51 INFO     >> Training accuracy: 0.850708
+02-04 13-51 INFO     >> Test accuracy: 0.686800
+02-04 13-51 INFO      ** Training complete **
+02-04 13-51 INFO     net 8 final test acc 0.686800
+02-04 13-51 INFO     Training network 9. n_training: 1667
+02-04 13-51 INFO     Training network 9
+02-04 13-51 INFO     >> Pre-Training Training accuracy: 0.7996400719856028
+02-04 13-51 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-51 INFO     Epoch: 0 Loss: 0.818584
+02-04 13-51 INFO     Epoch: 1 Loss: 0.610320
+02-04 13-51 INFO     Epoch: 2 Loss: 0.839178
+02-04 13-51 INFO     Epoch: 3 Loss: 0.670966
+02-04 13-51 INFO     Epoch: 4 Loss: 0.653894
+02-04 13-51 INFO     >> Training accuracy: 0.787043
+02-04 13-51 INFO     >> Test accuracy: 0.633800
+02-04 13-51 INFO      ** Training complete **
+02-04 13-51 INFO     net 9 final test acc 0.633800
+02-04 13-51 INFO     Training network 10. n_training: 1672
+02-04 13-51 INFO     Training network 10
+02-04 13-51 INFO     >> Pre-Training Training accuracy: 0.812799043062201
+02-04 13-51 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-51 INFO     Epoch: 0 Loss: 0.774371
+02-04 13-51 INFO     Epoch: 1 Loss: 0.598206
+02-04 13-51 INFO     Epoch: 2 Loss: 0.545359
+02-04 13-51 INFO     Epoch: 3 Loss: 0.493452
+02-04 13-51 INFO     Epoch: 4 Loss: 0.424364
+02-04 13-51 INFO     >> Training accuracy: 0.874402
+02-04 13-51 INFO     >> Test accuracy: 0.667400
+02-04 13-51 INFO      ** Training complete **
+02-04 13-51 INFO     net 10 final test acc 0.667400
+02-04 13-51 INFO     Training network 11. n_training: 1746
+02-04 13-51 INFO     Training network 11
+02-04 13-51 INFO     >> Pre-Training Training accuracy: 0.827033218785796
+02-04 13-51 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-51 INFO     Epoch: 0 Loss: 0.760766
+02-04 13-51 INFO     Epoch: 1 Loss: 0.564979
+02-04 13-51 INFO     Epoch: 2 Loss: 0.475517
+02-04 13-51 INFO     Epoch: 3 Loss: 0.419799
+02-04 13-51 INFO     Epoch: 4 Loss: 0.332829
+02-04 13-51 INFO     >> Training accuracy: 0.879152
+02-04 13-51 INFO     >> Test accuracy: 0.732200
+02-04 13-51 INFO      ** Training complete **
+02-04 13-51 INFO     net 11 final test acc 0.732200
+02-04 13-51 INFO     Training network 12. n_training: 1709
+02-04 13-51 INFO     Training network 12
+02-04 13-51 INFO     >> Pre-Training Training accuracy: 0.8168519602106495
+02-04 13-51 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-51 INFO     Epoch: 0 Loss: 0.760743
+02-04 13-51 INFO     Epoch: 1 Loss: 0.564069
+02-04 13-51 INFO     Epoch: 2 Loss: 0.441455
+02-04 13-51 INFO     Epoch: 3 Loss: 0.384238
+02-04 13-51 INFO     Epoch: 4 Loss: 0.407355
+02-04 13-51 INFO     >> Training accuracy: 0.909304
+02-04 13-51 INFO     >> Test accuracy: 0.737900
+02-04 13-51 INFO      ** Training complete **
+02-04 13-51 INFO     net 12 final test acc 0.737900
+02-04 13-51 INFO     Training network 13. n_training: 1744
+02-04 13-51 INFO     Training network 13
+02-04 13-51 INFO     >> Pre-Training Training accuracy: 0.8061926605504587
+02-04 13-51 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-52 INFO     Epoch: 0 Loss: 0.797265
+02-04 13-52 INFO     Epoch: 1 Loss: 0.557565
+02-04 13-52 INFO     Epoch: 2 Loss: 0.451564
+02-04 13-52 INFO     Epoch: 3 Loss: 0.444393
+02-04 13-52 INFO     Epoch: 4 Loss: 0.428559
+02-04 13-52 INFO     >> Training accuracy: 0.885321
+02-04 13-52 INFO     >> Test accuracy: 0.681200
+02-04 13-52 INFO      ** Training complete **
+02-04 13-52 INFO     net 13 final test acc 0.681200
+02-04 13-52 INFO     Training network 14. n_training: 1784
+02-04 13-52 INFO     Training network 14
+02-04 13-52 INFO     >> Pre-Training Training accuracy: 0.8318385650224215
+02-04 13-52 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-52 INFO     Epoch: 0 Loss: 0.752959
+02-04 13-52 INFO     Epoch: 1 Loss: 0.544418
+02-04 13-52 INFO     Epoch: 2 Loss: 0.436780
+02-04 13-52 INFO     Epoch: 3 Loss: 0.377325
+02-04 13-52 INFO     Epoch: 4 Loss: 0.333829
+02-04 13-52 INFO     >> Training accuracy: 0.873318
+02-04 13-52 INFO     >> Test accuracy: 0.703200
+02-04 13-52 INFO      ** Training complete **
+02-04 13-52 INFO     net 14 final test acc 0.703200
+02-04 13-52 INFO     Training network 15. n_training: 1835
+02-04 13-52 INFO     Training network 15
+02-04 13-52 INFO     >> Pre-Training Training accuracy: 0.820708446866485
+02-04 13-52 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-52 INFO     Epoch: 0 Loss: 0.740938
+02-04 13-52 INFO     Epoch: 1 Loss: 0.535564
+02-04 13-52 INFO     Epoch: 2 Loss: 0.433104
+02-04 13-52 INFO     Epoch: 3 Loss: 0.369167
+02-04 13-52 INFO     Epoch: 4 Loss: 0.328945
+02-04 13-52 INFO     >> Training accuracy: 0.796185
+02-04 13-52 INFO     >> Test accuracy: 0.621100
+02-04 13-52 INFO      ** Training complete **
+02-04 13-52 INFO     net 15 final test acc 0.621100
+02-04 13-52 INFO     Training network 16. n_training: 1358
+02-04 13-52 INFO     Training network 16
+02-04 13-52 INFO     >> Pre-Training Training accuracy: 0.8063328424153167
+02-04 13-52 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-52 INFO     Epoch: 0 Loss: 0.817204
+02-04 13-52 INFO     Epoch: 1 Loss: 0.576139
+02-04 13-52 INFO     Epoch: 2 Loss: 0.431720
+02-04 13-52 INFO     Epoch: 3 Loss: 0.452387
+02-04 13-52 INFO     Epoch: 4 Loss: 0.440598
+02-04 13-52 INFO     >> Training accuracy: 0.888071
+02-04 13-52 INFO     >> Test accuracy: 0.722400
+02-04 13-52 INFO      ** Training complete **
+02-04 13-52 INFO     net 16 final test acc 0.722400
+02-04 13-52 INFO     Training network 17. n_training: 1751
+02-04 13-52 INFO     Training network 17
+02-04 13-52 INFO     >> Pre-Training Training accuracy: 0.799543118218161
+02-04 13-52 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-52 INFO     Epoch: 0 Loss: 0.816085
+02-04 13-52 INFO     Epoch: 1 Loss: 0.572961
+02-04 13-52 INFO     Epoch: 2 Loss: 0.533143
+02-04 13-52 INFO     Epoch: 3 Loss: 0.439000
+02-04 13-52 INFO     Epoch: 4 Loss: 0.400444
+02-04 13-52 INFO     >> Training accuracy: 0.804112
+02-04 13-52 INFO     >> Test accuracy: 0.563000
+02-04 13-52 INFO      ** Training complete **
+02-04 13-52 INFO     net 17 final test acc 0.563000
+02-04 13-52 INFO     Training network 18. n_training: 1531
+02-04 13-52 INFO     Training network 18
+02-04 13-52 INFO     >> Pre-Training Training accuracy: 0.8177661659046375
+02-04 13-52 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-52 INFO     Epoch: 0 Loss: 0.748364
+02-04 13-52 INFO     Epoch: 1 Loss: 0.484507
+02-04 13-52 INFO     Epoch: 2 Loss: 0.385925
+02-04 13-53 INFO     Epoch: 3 Loss: 0.305985
+02-04 13-53 INFO     Epoch: 4 Loss: 0.316144
+02-04 13-53 INFO     >> Training accuracy: 0.883083
+02-04 13-53 INFO     >> Test accuracy: 0.716700
+02-04 13-53 INFO      ** Training complete **
+02-04 13-53 INFO     net 18 final test acc 0.716700
+02-04 13-53 INFO     Training network 19. n_training: 1581
+02-04 13-53 INFO     Training network 19
+02-04 13-53 INFO     >> Pre-Training Training accuracy: 0.8121442125237192
+02-04 13-53 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-53 INFO     Epoch: 0 Loss: 0.751836
+02-04 13-53 INFO     Epoch: 1 Loss: 0.530010
+02-04 13-53 INFO     Epoch: 2 Loss: 0.404163
+02-04 13-53 INFO     Epoch: 3 Loss: 0.344077
+02-04 13-53 INFO     Epoch: 4 Loss: 0.316103
+02-04 13-53 INFO     >> Training accuracy: 0.875395
+02-04 13-53 INFO     >> Test accuracy: 0.706300
+02-04 13-53 INFO      ** Training complete **
+02-04 13-53 INFO     net 19 final test acc 0.706300
+02-04 13-53 INFO     Training network 20. n_training: 1741
+02-04 13-53 INFO     Training network 20
+02-04 13-53 INFO     >> Pre-Training Training accuracy: 0.8029867892016083
+02-04 13-53 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-53 INFO     Epoch: 0 Loss: 0.835390
+02-04 13-53 INFO     Epoch: 1 Loss: 0.616392
+02-04 13-53 INFO     Epoch: 2 Loss: 0.497166
+02-04 13-53 INFO     Epoch: 3 Loss: 0.519181
+02-04 13-53 INFO     Epoch: 4 Loss: 0.494180
+02-04 13-53 INFO     >> Training accuracy: 0.844917
+02-04 13-53 INFO     >> Test accuracy: 0.670700
+02-04 13-53 INFO      ** Training complete **
+02-04 13-53 INFO     net 20 final test acc 0.670700
+02-04 13-53 INFO     Training network 21. n_training: 1799
+02-04 13-53 INFO     Training network 21
+02-04 13-53 INFO     >> Pre-Training Training accuracy: 0.8187882156753752
+02-04 13-53 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-53 INFO     Epoch: 0 Loss: 0.793508
+02-04 13-53 INFO     Epoch: 1 Loss: 0.714868
+02-04 13-53 INFO     Epoch: 2 Loss: 0.703734
+02-04 13-53 INFO     Epoch: 3 Loss: 0.618401
+02-04 13-53 INFO     Epoch: 4 Loss: 0.561361
+02-04 13-53 INFO     >> Training accuracy: 0.777654
+02-04 13-53 INFO     >> Test accuracy: 0.669400
+02-04 13-53 INFO      ** Training complete **
+02-04 13-53 INFO     net 21 final test acc 0.669400
+02-04 13-53 INFO     Training network 22. n_training: 1904
+02-04 13-53 INFO     Training network 22
+02-04 13-53 INFO     >> Pre-Training Training accuracy: 0.8093487394957983
+02-04 13-53 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-53 INFO     Epoch: 0 Loss: 0.779085
+02-04 13-53 INFO     Epoch: 1 Loss: 0.555172
+02-04 13-53 INFO     Epoch: 2 Loss: 0.474205
+02-04 13-53 INFO     Epoch: 3 Loss: 0.430559
+02-04 13-53 INFO     Epoch: 4 Loss: 0.414531
+02-04 13-53 INFO     >> Training accuracy: 0.897059
+02-04 13-53 INFO     >> Test accuracy: 0.723400
+02-04 13-53 INFO      ** Training complete **
+02-04 13-53 INFO     net 22 final test acc 0.723400
+02-04 13-53 INFO     Training network 23. n_training: 1562
+02-04 13-53 INFO     Training network 23
+02-04 13-53 INFO     >> Pre-Training Training accuracy: 0.8169014084507042
+02-04 13-53 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-53 INFO     Epoch: 0 Loss: 0.776270
+02-04 13-53 INFO     Epoch: 1 Loss: 0.547810
+02-04 13-54 INFO     Epoch: 2 Loss: 0.422360
+02-04 13-54 INFO     Epoch: 3 Loss: 0.369870
+02-04 13-54 INFO     Epoch: 4 Loss: 0.349594
+02-04 13-54 INFO     >> Training accuracy: 0.908451
+02-04 13-54 INFO     >> Test accuracy: 0.748000
+02-04 13-54 INFO      ** Training complete **
+02-04 13-54 INFO     net 23 final test acc 0.748000
+02-04 13-54 INFO     Training network 24. n_training: 1504
+02-04 13-54 INFO     Training network 24
+02-04 13-54 INFO     >> Pre-Training Training accuracy: 0.8111702127659575
+02-04 13-54 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-54 INFO     Epoch: 0 Loss: 0.770271
+02-04 13-54 INFO     Epoch: 1 Loss: 0.550884
+02-04 13-54 INFO     Epoch: 2 Loss: 0.428055
+02-04 13-54 INFO     Epoch: 3 Loss: 0.421358
+02-04 13-54 INFO     Epoch: 4 Loss: 0.353930
+02-04 13-54 INFO     >> Training accuracy: 0.888963
+02-04 13-54 INFO     >> Test accuracy: 0.740900
+02-04 13-54 INFO      ** Training complete **
+02-04 13-54 INFO     net 24 final test acc 0.740900
+02-04 13-54 INFO     Training network 25. n_training: 1801
+02-04 13-54 INFO     Training network 25
+02-04 13-54 INFO     >> Pre-Training Training accuracy: 0.8195446973903387
+02-04 13-54 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-54 INFO     Epoch: 0 Loss: 0.757434
+02-04 13-54 INFO     Epoch: 1 Loss: 0.626564
+02-04 13-54 INFO     Epoch: 2 Loss: 0.538602
+02-04 13-54 INFO     Epoch: 3 Loss: 0.461193
+02-04 13-54 INFO     Epoch: 4 Loss: 0.453985
+02-04 13-54 INFO     >> Training accuracy: 0.865630
+02-04 13-54 INFO     >> Test accuracy: 0.726400
+02-04 13-54 INFO      ** Training complete **
+02-04 13-54 INFO     net 25 final test acc 0.726400
+02-04 13-54 INFO     Training network 26. n_training: 1761
+02-04 13-54 INFO     Training network 26
+02-04 13-54 INFO     >> Pre-Training Training accuracy: 0.8182850653038046
+02-04 13-54 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-54 INFO     Epoch: 0 Loss: 0.759941
+02-04 13-54 INFO     Epoch: 1 Loss: 0.534999
+02-04 13-54 INFO     Epoch: 2 Loss: 0.441977
+02-04 13-54 INFO     Epoch: 3 Loss: 0.440599
+02-04 13-54 INFO     Epoch: 4 Loss: 0.365456
+02-04 13-54 INFO     >> Training accuracy: 0.896082
+02-04 13-54 INFO     >> Test accuracy: 0.726300
+02-04 13-54 INFO      ** Training complete **
+02-04 13-54 INFO     net 26 final test acc 0.726300
+02-04 13-54 INFO     Training network 27. n_training: 1518
+02-04 13-54 INFO     Training network 27
+02-04 13-54 INFO     >> Pre-Training Training accuracy: 0.8326745718050066
+02-04 13-54 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-54 INFO     Epoch: 0 Loss: 0.759709
+02-04 13-54 INFO     Epoch: 1 Loss: 0.505383
+02-04 13-54 INFO     Epoch: 2 Loss: 0.410403
+02-04 13-54 INFO     Epoch: 3 Loss: 0.354879
+02-04 13-54 INFO     Epoch: 4 Loss: 0.287196
+02-04 13-54 INFO     >> Training accuracy: 0.905138
+02-04 13-54 INFO     >> Test accuracy: 0.747400
+02-04 13-54 INFO      ** Training complete **
+02-04 13-54 INFO     net 27 final test acc 0.747400
+02-04 13-54 INFO     Training network 28. n_training: 1516
+02-04 13-54 INFO     Training network 28
+02-04 13-54 INFO     >> Pre-Training Training accuracy: 0.8054089709762533
+02-04 13-54 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-54 INFO     Epoch: 0 Loss: 0.860424
+02-04 13-54 INFO     Epoch: 1 Loss: 0.594541
+02-04 13-55 INFO     Epoch: 2 Loss: 0.456977
+02-04 13-55 INFO     Epoch: 3 Loss: 0.368647
+02-04 13-55 INFO     Epoch: 4 Loss: 0.337541
+02-04 13-55 INFO     >> Training accuracy: 0.897098
+02-04 13-55 INFO     >> Test accuracy: 0.712800
+02-04 13-55 INFO      ** Training complete **
+02-04 13-55 INFO     net 28 final test acc 0.712800
+02-04 13-55 INFO     Training network 29. n_training: 1732
+02-04 13-55 INFO     Training network 29
+02-04 13-55 INFO     >> Pre-Training Training accuracy: 0.8175519630484989
+02-04 13-55 INFO     >> Pre-Training Test accuracy: 0.8653
+02-04 13-55 INFO     Epoch: 0 Loss: 0.814623
+02-04 13-55 INFO     Epoch: 1 Loss: 0.638169
+02-04 13-55 INFO     Epoch: 2 Loss: 0.605003
+02-04 13-55 INFO     Epoch: 3 Loss: 0.603502
+02-04 13-55 INFO     Epoch: 4 Loss: 0.676285
+02-04 13-55 INFO     >> Training accuracy: 0.648961
+02-04 13-55 INFO     >> Test accuracy: 0.580500
+02-04 13-55 INFO      ** Training complete **
+02-04 13-55 INFO     net 29 final test acc 0.580500
+02-04 13-55 INFO     global n_training: 782
+02-04 13-55 INFO     global n_test: 313
+02-04 13-55 INFO     >> Global Model Train accuracy: 0.881760
+02-04 13-55 INFO     >> Global Model Test accuracy: 0.865200
+02-04 13-55 INFO     in comm round:37
+02-04 13-55 INFO     Training network 0. n_training: 1350
+02-04 13-55 INFO     Training network 0
+02-04 13-55 INFO     >> Pre-Training Training accuracy: 0.8118518518518518
+02-04 13-55 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-55 INFO     Epoch: 0 Loss: 0.819907
+02-04 13-55 INFO     Epoch: 1 Loss: 0.633228
+02-04 13-55 INFO     Epoch: 2 Loss: 0.729754
+02-04 13-55 INFO     Epoch: 3 Loss: 0.676578
+02-04 13-55 INFO     Epoch: 4 Loss: 0.634290
+02-04 13-55 INFO     >> Training accuracy: 0.851111
+02-04 13-55 INFO     >> Test accuracy: 0.724700
+02-04 13-55 INFO      ** Training complete **
+02-04 13-55 INFO     net 0 final test acc 0.724700
+02-04 13-55 INFO     Training network 1. n_training: 1818
+02-04 13-55 INFO     Training network 1
+02-04 13-55 INFO     >> Pre-Training Training accuracy: 0.8184818481848185
+02-04 13-55 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-55 INFO     Epoch: 0 Loss: 0.792415
+02-04 13-56 INFO     Epoch: 1 Loss: 0.589086
+02-04 13-56 INFO     Epoch: 2 Loss: 0.463854
+02-04 13-56 INFO     Epoch: 3 Loss: 0.437181
+02-04 13-56 INFO     Epoch: 4 Loss: 0.388591
+02-04 13-56 INFO     >> Training accuracy: 0.874587
+02-04 13-56 INFO     >> Test accuracy: 0.714600
+02-04 13-56 INFO      ** Training complete **
+02-04 13-56 INFO     net 1 final test acc 0.714600
+02-04 13-56 INFO     Training network 2. n_training: 1542
+02-04 13-56 INFO     Training network 2
+02-04 13-56 INFO     >> Pre-Training Training accuracy: 0.817769130998703
+02-04 13-56 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-56 INFO     Epoch: 0 Loss: 0.774211
+02-04 13-56 INFO     Epoch: 1 Loss: 0.641261
+02-04 13-56 INFO     Epoch: 2 Loss: 0.498111
+02-04 13-56 INFO     Epoch: 3 Loss: 0.408125
+02-04 13-56 INFO     Epoch: 4 Loss: 0.543093
+02-04 13-56 INFO     >> Training accuracy: 0.760052
+02-04 13-56 INFO     >> Test accuracy: 0.590900
+02-04 13-56 INFO      ** Training complete **
+02-04 13-56 INFO     net 2 final test acc 0.590900
+02-04 13-56 INFO     Training network 3. n_training: 1857
+02-04 13-56 INFO     Training network 3
+02-04 13-56 INFO     >> Pre-Training Training accuracy: 0.8255250403877221
+02-04 13-56 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-56 INFO     Epoch: 0 Loss: 0.769804
+02-04 13-56 INFO     Epoch: 1 Loss: 0.687818
+02-04 13-56 INFO     Epoch: 2 Loss: 0.783946
+02-04 13-56 INFO     Epoch: 3 Loss: 0.756051
+02-04 13-56 INFO     Epoch: 4 Loss: 0.689741
+02-04 13-56 INFO     >> Training accuracy: 0.804523
+02-04 13-56 INFO     >> Test accuracy: 0.678500
+02-04 13-56 INFO      ** Training complete **
+02-04 13-56 INFO     net 3 final test acc 0.678500
+02-04 13-56 INFO     Training network 4. n_training: 1592
+02-04 13-56 INFO     Training network 4
+02-04 13-56 INFO     >> Pre-Training Training accuracy: 0.8046482412060302
+02-04 13-56 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-56 INFO     Epoch: 0 Loss: 0.776962
+02-04 13-56 INFO     Epoch: 1 Loss: 0.526899
+02-04 13-56 INFO     Epoch: 2 Loss: 0.441047
+02-04 13-56 INFO     Epoch: 3 Loss: 0.378084
+02-04 13-56 INFO     Epoch: 4 Loss: 0.297099
+02-04 13-56 INFO     >> Training accuracy: 0.917085
+02-04 13-56 INFO     >> Test accuracy: 0.732400
+02-04 13-56 INFO      ** Training complete **
+02-04 13-56 INFO     net 4 final test acc 0.732400
+02-04 13-56 INFO     Training network 5. n_training: 1750
+02-04 13-56 INFO     Training network 5
+02-04 13-56 INFO     >> Pre-Training Training accuracy: 0.8125714285714286
+02-04 13-56 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-56 INFO     Epoch: 0 Loss: 0.771850
+02-04 13-56 INFO     Epoch: 1 Loss: 0.564370
+02-04 13-56 INFO     Epoch: 2 Loss: 0.470917
+02-04 13-56 INFO     Epoch: 3 Loss: 0.406278
+02-04 13-56 INFO     Epoch: 4 Loss: 0.382917
+02-04 13-56 INFO     >> Training accuracy: 0.866857
+02-04 13-56 INFO     >> Test accuracy: 0.708600
+02-04 13-56 INFO      ** Training complete **
+02-04 13-56 INFO     net 5 final test acc 0.708600
+02-04 13-56 INFO     Training network 6. n_training: 1612
+02-04 13-56 INFO     Training network 6
+02-04 13-56 INFO     >> Pre-Training Training accuracy: 0.8070719602977667
+02-04 13-56 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-57 INFO     Epoch: 0 Loss: 0.804280
+02-04 13-57 INFO     Epoch: 1 Loss: 0.543865
+02-04 13-57 INFO     Epoch: 2 Loss: 0.466822
+02-04 13-57 INFO     Epoch: 3 Loss: 0.412651
+02-04 13-57 INFO     Epoch: 4 Loss: 0.524023
+02-04 13-57 INFO     >> Training accuracy: 0.863524
+02-04 13-57 INFO     >> Test accuracy: 0.719500
+02-04 13-57 INFO      ** Training complete **
+02-04 13-57 INFO     net 6 final test acc 0.719500
+02-04 13-57 INFO     Training network 7. n_training: 1709
+02-04 13-57 INFO     Training network 7
+02-04 13-57 INFO     >> Pre-Training Training accuracy: 0.8133411351667642
+02-04 13-57 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-57 INFO     Epoch: 0 Loss: 0.753483
+02-04 13-57 INFO     Epoch: 1 Loss: 0.522837
+02-04 13-57 INFO     Epoch: 2 Loss: 0.425142
+02-04 13-57 INFO     Epoch: 3 Loss: 0.402120
+02-04 13-57 INFO     Epoch: 4 Loss: 0.310950
+02-04 13-57 INFO     >> Training accuracy: 0.870685
+02-04 13-57 INFO     >> Test accuracy: 0.695900
+02-04 13-57 INFO      ** Training complete **
+02-04 13-57 INFO     net 7 final test acc 0.695900
+02-04 13-57 INFO     Training network 8. n_training: 1554
+02-04 13-57 INFO     Training network 8
+02-04 13-57 INFO     >> Pre-Training Training accuracy: 0.8082368082368082
+02-04 13-57 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-57 INFO     Epoch: 0 Loss: 0.790922
+02-04 13-57 INFO     Epoch: 1 Loss: 0.567651
+02-04 13-57 INFO     Epoch: 2 Loss: 0.421986
+02-04 13-57 INFO     Epoch: 3 Loss: 0.367165
+02-04 13-57 INFO     Epoch: 4 Loss: 0.347262
+02-04 13-57 INFO     >> Training accuracy: 0.910553
+02-04 13-57 INFO     >> Test accuracy: 0.741100
+02-04 13-57 INFO      ** Training complete **
+02-04 13-57 INFO     net 8 final test acc 0.741100
+02-04 13-57 INFO     Training network 9. n_training: 1667
+02-04 13-57 INFO     Training network 9
+02-04 13-57 INFO     >> Pre-Training Training accuracy: 0.794241151769646
+02-04 13-57 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-57 INFO     Epoch: 0 Loss: 0.846006
+02-04 13-57 INFO     Epoch: 1 Loss: 1.026951
+02-04 13-57 INFO     Epoch: 2 Loss: 0.933163
+02-04 13-57 INFO     Epoch: 3 Loss: 0.843579
+02-04 13-57 INFO     Epoch: 4 Loss: 0.953802
+02-04 13-57 INFO     >> Training accuracy: 0.722256
+02-04 13-57 INFO     >> Test accuracy: 0.604100
+02-04 13-57 INFO      ** Training complete **
+02-04 13-57 INFO     net 9 final test acc 0.604100
+02-04 13-57 INFO     Training network 10. n_training: 1672
+02-04 13-57 INFO     Training network 10
+02-04 13-57 INFO     >> Pre-Training Training accuracy: 0.8181818181818182
+02-04 13-57 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-57 INFO     Epoch: 0 Loss: 0.765525
+02-04 13-57 INFO     Epoch: 1 Loss: 0.613760
+02-04 13-57 INFO     Epoch: 2 Loss: 0.461520
+02-04 13-57 INFO     Epoch: 3 Loss: 0.408435
+02-04 13-57 INFO     Epoch: 4 Loss: 0.436153
+02-04 13-57 INFO     >> Training accuracy: 0.891148
+02-04 13-57 INFO     >> Test accuracy: 0.683800
+02-04 13-57 INFO      ** Training complete **
+02-04 13-57 INFO     net 10 final test acc 0.683800
+02-04 13-57 INFO     Training network 11. n_training: 1746
+02-04 13-57 INFO     Training network 11
+02-04 13-57 INFO     >> Pre-Training Training accuracy: 0.8276059564719358
+02-04 13-57 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-57 INFO     Epoch: 0 Loss: 0.748339
+02-04 13-58 INFO     Epoch: 1 Loss: 0.519244
+02-04 13-58 INFO     Epoch: 2 Loss: 0.473605
+02-04 13-58 INFO     Epoch: 3 Loss: 0.488976
+02-04 13-58 INFO     Epoch: 4 Loss: 0.384596
+02-04 13-58 INFO     >> Training accuracy: 0.852234
+02-04 13-58 INFO     >> Test accuracy: 0.698200
+02-04 13-58 INFO      ** Training complete **
+02-04 13-58 INFO     net 11 final test acc 0.698200
+02-04 13-58 INFO     Training network 12. n_training: 1709
+02-04 13-58 INFO     Training network 12
+02-04 13-58 INFO     >> Pre-Training Training accuracy: 0.8168519602106495
+02-04 13-58 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-58 INFO     Epoch: 0 Loss: 0.749449
+02-04 13-58 INFO     Epoch: 1 Loss: 0.547021
+02-04 13-58 INFO     Epoch: 2 Loss: 0.398875
+02-04 13-58 INFO     Epoch: 3 Loss: 0.316824
+02-04 13-58 INFO     Epoch: 4 Loss: 0.335250
+02-04 13-58 INFO     >> Training accuracy: 0.916325
+02-04 13-58 INFO     >> Test accuracy: 0.728600
+02-04 13-58 INFO      ** Training complete **
+02-04 13-58 INFO     net 12 final test acc 0.728600
+02-04 13-58 INFO     Training network 13. n_training: 1744
+02-04 13-58 INFO     Training network 13
+02-04 13-58 INFO     >> Pre-Training Training accuracy: 0.8130733944954128
+02-04 13-58 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-58 INFO     Epoch: 0 Loss: 0.776979
+02-04 13-58 INFO     Epoch: 1 Loss: 0.525802
+02-04 13-58 INFO     Epoch: 2 Loss: 0.420074
+02-04 13-58 INFO     Epoch: 3 Loss: 0.406722
+02-04 13-58 INFO     Epoch: 4 Loss: 0.375727
+02-04 13-58 INFO     >> Training accuracy: 0.887615
+02-04 13-58 INFO     >> Test accuracy: 0.674900
+02-04 13-58 INFO      ** Training complete **
+02-04 13-58 INFO     net 13 final test acc 0.674900
+02-04 13-58 INFO     Training network 14. n_training: 1784
+02-04 13-58 INFO     Training network 14
+02-04 13-58 INFO     >> Pre-Training Training accuracy: 0.8335201793721974
+02-04 13-58 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-58 INFO     Epoch: 0 Loss: 0.732385
+02-04 13-58 INFO     Epoch: 1 Loss: 0.493383
+02-04 13-58 INFO     Epoch: 2 Loss: 0.387289
+02-04 13-58 INFO     Epoch: 3 Loss: 0.348710
+02-04 13-58 INFO     Epoch: 4 Loss: 0.348304
+02-04 13-58 INFO     >> Training accuracy: 0.866592
+02-04 13-58 INFO     >> Test accuracy: 0.705700
+02-04 13-58 INFO      ** Training complete **
+02-04 13-58 INFO     net 14 final test acc 0.705700
+02-04 13-58 INFO     Training network 15. n_training: 1835
+02-04 13-58 INFO     Training network 15
+02-04 13-58 INFO     >> Pre-Training Training accuracy: 0.8376021798365123
+02-04 13-58 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-58 INFO     Epoch: 0 Loss: 0.712439
+02-04 13-58 INFO     Epoch: 1 Loss: 0.509111
+02-04 13-58 INFO     Epoch: 2 Loss: 0.398247
+02-04 13-58 INFO     Epoch: 3 Loss: 0.362463
+02-04 13-58 INFO     Epoch: 4 Loss: 0.339224
+02-04 13-58 INFO     >> Training accuracy: 0.898638
+02-04 13-58 INFO     >> Test accuracy: 0.711400
+02-04 13-58 INFO      ** Training complete **
+02-04 13-58 INFO     net 15 final test acc 0.711400
+02-04 13-58 INFO     Training network 16. n_training: 1358
+02-04 13-58 INFO     Training network 16
+02-04 13-58 INFO     >> Pre-Training Training accuracy: 0.8173784977908689
+02-04 13-58 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-58 INFO     Epoch: 0 Loss: 0.805943
+02-04 13-59 INFO     Epoch: 1 Loss: 0.569302
+02-04 13-59 INFO     Epoch: 2 Loss: 0.552957
+02-04 13-59 INFO     Epoch: 3 Loss: 0.493529
+02-04 13-59 INFO     Epoch: 4 Loss: 0.382416
+02-04 13-59 INFO     >> Training accuracy: 0.891753
+02-04 13-59 INFO     >> Test accuracy: 0.723800
+02-04 13-59 INFO      ** Training complete **
+02-04 13-59 INFO     net 16 final test acc 0.723800
+02-04 13-59 INFO     Training network 17. n_training: 1751
+02-04 13-59 INFO     Training network 17
+02-04 13-59 INFO     >> Pre-Training Training accuracy: 0.7938320959451742
+02-04 13-59 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-59 INFO     Epoch: 0 Loss: 0.801710
+02-04 13-59 INFO     Epoch: 1 Loss: 0.567305
+02-04 13-59 INFO     Epoch: 2 Loss: 0.490146
+02-04 13-59 INFO     Epoch: 3 Loss: 0.433966
+02-04 13-59 INFO     Epoch: 4 Loss: 0.383714
+02-04 13-59 INFO     >> Training accuracy: 0.839520
+02-04 13-59 INFO     >> Test accuracy: 0.625000
+02-04 13-59 INFO      ** Training complete **
+02-04 13-59 INFO     net 17 final test acc 0.625000
+02-04 13-59 INFO     Training network 18. n_training: 1531
+02-04 13-59 INFO     Training network 18
+02-04 13-59 INFO     >> Pre-Training Training accuracy: 0.8288700195950359
+02-04 13-59 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-59 INFO     Epoch: 0 Loss: 0.706063
+02-04 13-59 INFO     Epoch: 1 Loss: 0.464260
+02-04 13-59 INFO     Epoch: 2 Loss: 0.388217
+02-04 13-59 INFO     Epoch: 3 Loss: 0.317333
+02-04 13-59 INFO     Epoch: 4 Loss: 0.307058
+02-04 13-59 INFO     >> Training accuracy: 0.928805
+02-04 13-59 INFO     >> Test accuracy: 0.760900
+02-04 13-59 INFO      ** Training complete **
+02-04 13-59 INFO     net 18 final test acc 0.760900
+02-04 13-59 INFO     Training network 19. n_training: 1581
+02-04 13-59 INFO     Training network 19
+02-04 13-59 INFO     >> Pre-Training Training accuracy: 0.8134092346616065
+02-04 13-59 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-59 INFO     Epoch: 0 Loss: 0.739453
+02-04 13-59 INFO     Epoch: 1 Loss: 0.484676
+02-04 13-59 INFO     Epoch: 2 Loss: 0.377297
+02-04 13-59 INFO     Epoch: 3 Loss: 0.390327
+02-04 13-59 INFO     Epoch: 4 Loss: 0.316717
+02-04 13-59 INFO     >> Training accuracy: 0.905756
+02-04 13-59 INFO     >> Test accuracy: 0.727600
+02-04 13-59 INFO      ** Training complete **
+02-04 13-59 INFO     net 19 final test acc 0.727600
+02-04 13-59 INFO     Training network 20. n_training: 1741
+02-04 13-59 INFO     Training network 20
+02-04 13-59 INFO     >> Pre-Training Training accuracy: 0.8001148765077541
+02-04 13-59 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-59 INFO     Epoch: 0 Loss: 0.808824
+02-04 13-59 INFO     Epoch: 1 Loss: 0.616749
+02-04 13-59 INFO     Epoch: 2 Loss: 0.585058
+02-04 13-59 INFO     Epoch: 3 Loss: 0.523163
+02-04 13-59 INFO     Epoch: 4 Loss: 0.472945
+02-04 13-59 INFO     >> Training accuracy: 0.884549
+02-04 13-59 INFO     >> Test accuracy: 0.662700
+02-04 13-59 INFO      ** Training complete **
+02-04 13-59 INFO     net 20 final test acc 0.662700
+02-04 13-59 INFO     Training network 21. n_training: 1799
+02-04 13-59 INFO     Training network 21
+02-04 13-59 INFO     >> Pre-Training Training accuracy: 0.8182323513062812
+02-04 13-59 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 13-59 INFO     Epoch: 0 Loss: 0.833633
+02-04 13-59 INFO     Epoch: 1 Loss: 0.707313
+02-04 14-00 INFO     Epoch: 2 Loss: 0.593665
+02-04 14-00 INFO     Epoch: 3 Loss: 0.482571
+02-04 14-00 INFO     Epoch: 4 Loss: 0.377175
+02-04 14-00 INFO     >> Training accuracy: 0.873263
+02-04 14-00 INFO     >> Test accuracy: 0.719500
+02-04 14-00 INFO      ** Training complete **
+02-04 14-00 INFO     net 21 final test acc 0.719500
+02-04 14-00 INFO     Training network 22. n_training: 1904
+02-04 14-00 INFO     Training network 22
+02-04 14-00 INFO     >> Pre-Training Training accuracy: 0.8103991596638656
+02-04 14-00 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 14-00 INFO     Epoch: 0 Loss: 0.771964
+02-04 14-00 INFO     Epoch: 1 Loss: 0.569792
+02-04 14-00 INFO     Epoch: 2 Loss: 0.489471
+02-04 14-00 INFO     Epoch: 3 Loss: 0.412296
+02-04 14-00 INFO     Epoch: 4 Loss: 0.406291
+02-04 14-00 INFO     >> Training accuracy: 0.894433
+02-04 14-00 INFO     >> Test accuracy: 0.743600
+02-04 14-00 INFO      ** Training complete **
+02-04 14-00 INFO     net 22 final test acc 0.743600
+02-04 14-00 INFO     Training network 23. n_training: 1562
+02-04 14-00 INFO     Training network 23
+02-04 14-00 INFO     >> Pre-Training Training accuracy: 0.823943661971831
+02-04 14-00 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 14-00 INFO     Epoch: 0 Loss: 0.783971
+02-04 14-00 INFO     Epoch: 1 Loss: 0.536388
+02-04 14-00 INFO     Epoch: 2 Loss: 0.432296
+02-04 14-00 INFO     Epoch: 3 Loss: 0.326737
+02-04 14-00 INFO     Epoch: 4 Loss: 0.341701
+02-04 14-00 INFO     >> Training accuracy: 0.905250
+02-04 14-00 INFO     >> Test accuracy: 0.745900
+02-04 14-00 INFO      ** Training complete **
+02-04 14-00 INFO     net 23 final test acc 0.745900
+02-04 14-00 INFO     Training network 24. n_training: 1504
+02-04 14-00 INFO     Training network 24
+02-04 14-00 INFO     >> Pre-Training Training accuracy: 0.8144946808510638
+02-04 14-00 INFO     >> Pre-Training Test accuracy: 0.8652
+02-04 14-00 INFO     Epoch: 0 Loss: 0.794319
+02-04 14-00 INFO     Epoch: 1 Loss: 0.557833
+02-04 14-00 INFO     Epoch: 2 Loss: 0.426995
+02-04 14-00 INFO     Epoch: 3 Loss: 0.361312
