@@ -5,6 +5,7 @@ from resnetcifar import ResNet18_cifar10
 from utils import get_dataloader, compute_accuracy
 
 
+torch.manual_seed(0)
 device = 'cuda'
 criterion = nn.CrossEntropyLoss().to(device)
 
@@ -31,4 +32,4 @@ for epoch in range(20):
 
     test_acc, conf_matrix = compute_accuracy(net, test_dl, get_confusion_matrix=True, device=device)
     print(test_acc)
-    torch.save(net.state_dict(), './annotators/ant'+str(20))
+    torch.save(net.state_dict(), './annotators/ant'+str(epoch))
