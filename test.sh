@@ -1,14 +1,14 @@
-for annotation_skew_degree in '6 6'
+for annotation_skew_degree in '6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6'
 do
     python experiments.py --model=resnet18 \
         --dataset=cifar10 \
         --alg=fedavg \
         --lr=0.1 \
         --batch-size=64 \
-        --epochs=2 \
-        --n_parties=2 \
+        --epochs=5 \
+        --n_parties=30 \
         --rho=0.9 \
-        --comm_round=2 \
+        --comm_round=100 \
         --partition='noniid-instancedependent' \
         --annotation_skew_degree="$annotation_skew_degree" \
         --beta=10\

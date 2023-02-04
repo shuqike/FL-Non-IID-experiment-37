@@ -1,4 +1,4 @@
-for annotation_skew_degree in '1 1 1 1 1' '2 2 2 2 2' '3 3 3 3 3'
+for annotation_skew_degree in '6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6'
 do
     python experiments.py --model=resnet18 \
         --dataset=cifar10 \
@@ -6,12 +6,12 @@ do
         --lr=0.1 \
         --batch-size=64 \
         --epochs=5 \
-        --n_parties=5 \
+        --n_parties=30 \
         --rho=0.9 \
         --comm_round=50 \
         --partition='noniid-instancedependent' \
         --annotation_skew_degree="$annotation_skew_degree" \
-        --beta=0.5\
+        --beta=10\
         --device='cuda'\
         --datadir='./data/' \
         --logdir='./logs/tt1/' \
