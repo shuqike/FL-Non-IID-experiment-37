@@ -427,10 +427,13 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
             transforms.RandomHorizontalFlip(),
             transforms.ToTensor()
         ])
+        # add label noise
+        annotation_skew_degree = annotation_skew_degree.split(' ')
+        annotation_skew_degree = list(map(float, annotation_skew_degree))
         for p in range(n_parties):
-            nets[p].load_state_dict(torch.load('./annotators/ant'+str(annotation_skew_degree[p])))
+            nets[p].load_state_dict(torch.load('./annotators/ant6'))
             nets[p].eval()
-            for k in range(len(net_dataidx_map[p])):
+            for k in range(int(len(net_dataidx_map[p]) * annotation_skew_degree[p])):
                 x = X_train[net_dataidx_map[p][k]]
                 x = transform_train(x)
                 x = torch.unsqueeze(x, 0)
