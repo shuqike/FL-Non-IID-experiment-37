@@ -422,6 +422,7 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
                 out = nets[p](x)
                 print('logit shape', out.shape)
                 print('logit example', out[0][0])
+                print('original label', out.data, torch.max(out.data, 1))
                 pred_label = np.random.choice(10, p=out.detach().numpy())
                 y_train[net_dataidx_map[p][k]] = pred_label
 
