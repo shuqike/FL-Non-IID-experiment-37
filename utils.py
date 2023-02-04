@@ -419,12 +419,8 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
                 x = X_train[net_dataidx_map[p][k]]
                 x = transform_train(x)
                 x = torch.unsqueeze(x, 0)
-                print('fuck x', x.shape)
                 out = nets[p](x)
-                print('logit shape', out.shape)
-                print('logit', out)
-                print('original label', out.data.shape, torch.max(out.data, 1))
-                pred_label = np.random.choice(10, p=out.detach().numpy())
+                pred_label = np.random.choice(10, p=out[0][:10].detach().numpy())
                 y_train[net_dataidx_map[p][k]] = pred_label
 
     elif partition > "noniid-#label0" and partition <= "noniid-#label9":
