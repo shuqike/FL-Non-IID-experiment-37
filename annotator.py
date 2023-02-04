@@ -11,7 +11,7 @@ criterion = nn.CrossEntropyLoss().to(device)
 net = ResNet18_cifar10().to(device)
 train_dl, test_dl, _, _ = get_dataloader('cifar10', './data/', 64, 32)
 optimizer = optim.SGD(filter(lambda p: p.requires_grad, net.parameters()), lr=0.1, momentum=0.9, weight_decay=5e-4)
-scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=int(k**(1.5))+3)
+scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=20)
 for epoch in range(20):
     for tmp in [train_dl]:
         for batch_idx, (x, target) in enumerate(tmp):
