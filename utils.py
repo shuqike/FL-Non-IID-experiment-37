@@ -417,6 +417,7 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
             nets[p].eval()
             for k in range(len(net_dataidx_map[p])):
                 x = X_train[net_dataidx_map[p][k]]
+                print('fuck x', len(x))
                 x = transform_train(x)
                 x = torch.unsqueeze(x, 0)
                 out = nets[p](x)
