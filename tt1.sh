@@ -12,7 +12,7 @@ do
         --partition='noniid-instancedependent' \
         --annotation_skew_degree="$annotation_skew_degree" \
         --beta=10\
-        --device='cuda:1'\
+        --device='cuda:4'\
         --datadir='./data/' \
         --logdir='./logs/fedavg/' \
         --noise=0\

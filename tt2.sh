@@ -12,7 +12,7 @@ do
         --partition='noniid-instancedependent' \
         --annotation_skew_degree="$annotation_skew_degree" \
         --beta=10\
-        --device='cuda:2'\
+        --device='cuda:5'\
         --datadir='./data/' \
         --logdir='./logs/scaffold/' \
         --noise=0\
