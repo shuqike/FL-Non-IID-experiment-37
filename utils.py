@@ -417,9 +417,9 @@ def partition_data(dataset, datadir, logdir, partition, n_parties, beta=0.4, ann
             nets[p].eval()
             for k in range(len(net_dataidx_map[p])):
                 x = X_train[net_dataidx_map[p][k]]
-                print('fuck x', len(x))
                 x = transform_train(x)
                 x = torch.unsqueeze(x, 0)
+                print('fuck x', x.shape)
                 out = nets[p](x)
                 print('logit shape', out.shape)
                 print('logit example', out[0][0])
