@@ -1,0 +1,105 @@
+03-30 04-28 INFO     cuda
+03-30 04-28 INFO     ####################################################################################################
+03-30 04-28 INFO     Partitioning data
+03-30 04-38 INFO     Data statistics: {0: {0: 192, 1: 209, 2: 234, 3: 181, 4: 118, 5: 171, 6: 138, 7: 201, 8: 205, 9: 51}, 1: {0: 138, 1: 156, 2: 198, 3: 211, 4: 152, 5: 135, 6: 170, 7: 139, 8: 176, 9: 239}, 2: {0: 130, 1: 133, 2: 189, 3: 144, 4: 192, 5: 94, 6: 164, 7: 129, 8: 133, 9: 134}, 3: {0: 208, 1: 203, 2: 208, 3: 204, 4: 190, 5: 229, 6: 165, 7: 217, 8: 58, 9: 57}, 4: {0: 197, 1: 119, 2: 186, 3: 182, 4: 128, 5: 124, 6: 199, 7: 182, 8: 181, 9: 171}, 5: {0: 213, 1: 164, 2: 157, 3: 151, 4: 199, 5: 131, 6: 225, 7: 155, 8: 131, 9: 231}, 6: {0: 199, 1: 183, 2: 178, 3: 142, 4: 153, 5: 88, 6: 131, 7: 158, 8: 139, 9: 151}, 7: {0: 148, 1: 150, 2: 182, 3: 159, 4: 154, 5: 167, 6: 292, 7: 165, 8: 190, 9: 60}, 8: {0: 145, 1: 156, 2: 167, 3: 213, 4: 172, 5: 117, 6: 153, 7: 119, 8: 161, 9: 239}, 9: {0: 150, 1: 131, 2: 166, 3: 136, 4: 115, 5: 131, 6: 181, 7: 145, 8: 103, 9: 150}, 10: {0: 219, 1: 141, 2: 182, 3: 241, 4: 133, 5: 176, 6: 176, 7: 142, 8: 195, 9: 210}, 11: {0: 217, 1: 127, 2: 254, 3: 150, 4: 171, 5: 184, 6: 185, 7: 172, 8: 146, 9: 199}, 12: {0: 159, 1: 154, 2: 145, 3: 196, 4: 206, 5: 184, 6: 142, 7: 153, 8: 146, 9: 140}, 13: {0: 160, 1: 211, 2: 99, 3: 154, 4: 148, 5: 161, 6: 166, 7: 151, 8: 163, 9: 232}, 14: {0: 158, 1: 172, 2: 143, 3: 186, 4: 199, 5: 149, 6: 121, 7: 190, 8: 129, 9: 233}, 15: {0: 231, 1: 174, 2: 219, 3: 187, 4: 182, 5: 191, 6: 222, 7: 159, 8: 166, 9: 49}, 16: {0: 173, 1: 113, 2: 202, 3: 170, 4: 189, 5: 174, 6: 163, 7: 241, 8: 226, 9: 56}, 17: {0: 149, 1: 183, 2: 177, 3: 129, 4: 115, 5: 205, 6: 167, 7: 171, 8: 153, 9: 255}, 18: {0: 121, 1: 179, 2: 111, 3: 176, 4: 181, 5: 214, 6: 125, 7: 236, 8: 177, 9: 163}, 19: {0: 192, 1: 152, 2: 148, 3: 185, 4: 197, 5: 183, 6: 142, 7: 119, 8: 176, 9: 175}, 20: {0: 232, 1: 219, 2: 165, 3: 155, 4: 118, 5: 192, 6: 192, 7: 158, 8: 212, 9: 147}, 21: {0: 193, 1: 148, 2: 142, 3: 188, 4: 133, 5: 195, 6: 143, 7: 190, 8: 176, 9: 239}, 22: {0: 147, 1: 147, 2: 121, 3: 172, 4: 175, 5: 122, 6: 144, 7: 182, 8: 205, 9: 118}, 23: {0: 179, 1: 155, 2: 188, 3: 127, 4: 80, 5: 158, 6: 134, 7: 174, 8: 161, 9: 202}, 24: {0: 138, 1: 101, 2: 127, 3: 125, 4: 138, 5: 84, 6: 152, 7: 113, 8: 139, 9: 120}, 25: {0: 197, 1: 186, 2: 182, 3: 193, 4: 156, 5: 126, 6: 115, 7: 108, 8: 134, 9: 164}, 26: {0: 150, 1: 209, 2: 148, 3: 236, 4: 217, 5: 211, 6: 222, 7: 145, 8: 160, 9: 237}, 27: {0: 161, 1: 171, 2: 160, 3: 169, 4: 241, 5: 165, 6: 186, 7: 134, 8: 176, 9: 241}, 28: {0: 204, 1: 118, 2: 222, 3: 133, 4: 235, 5: 137, 6: 182, 7: 208, 8: 147, 9: 209}, 29: {0: 192, 1: 139, 2: 219, 3: 193, 4: 196, 5: 174, 6: 132, 7: 131, 8: 229, 9: 62}}
+03-30 04-38 INFO     Initializing nets
+03-30 04-53 INFO     >> Global Model Train accuracy: 0.100000
+03-30 04-53 INFO     >> Global Model Test accuracy: 0.100000
+03-30 05-07 INFO     >> Global Model Train accuracy: 0.100000
+03-30 05-07 INFO     >> Global Model Test accuracy: 0.100000
+03-30 05-21 INFO     >> Global Model Train accuracy: 0.103560
+03-30 05-21 INFO     >> Global Model Test accuracy: 0.104000
+03-30 05-35 INFO     >> Global Model Train accuracy: 0.200360
+03-30 05-35 INFO     >> Global Model Test accuracy: 0.206900
+03-30 05-50 INFO     >> Global Model Train accuracy: 0.259320
+03-30 05-50 INFO     >> Global Model Test accuracy: 0.277100
+03-30 06-04 INFO     >> Global Model Train accuracy: 0.335460
+03-30 06-04 INFO     >> Global Model Test accuracy: 0.360300
+03-30 06-19 INFO     >> Global Model Train accuracy: 0.359160
+03-30 06-19 INFO     >> Global Model Test accuracy: 0.387200
+03-30 06-33 INFO     >> Global Model Train accuracy: 0.400220
+03-30 06-33 INFO     >> Global Model Test accuracy: 0.427200
+03-30 06-47 INFO     >> Global Model Train accuracy: 0.417800
+03-30 06-47 INFO     >> Global Model Test accuracy: 0.443600
+03-30 07-01 INFO     >> Global Model Train accuracy: 0.454360
+03-30 07-01 INFO     >> Global Model Test accuracy: 0.481100
+03-30 07-15 INFO     >> Global Model Train accuracy: 0.477980
+03-30 07-15 INFO     >> Global Model Test accuracy: 0.499700
+03-30 07-29 INFO     >> Global Model Train accuracy: 0.521040
+03-30 07-29 INFO     >> Global Model Test accuracy: 0.546800
+03-30 07-43 INFO     >> Global Model Train accuracy: 0.537080
+03-30 07-43 INFO     >> Global Model Test accuracy: 0.558100
+03-30 07-57 INFO     >> Global Model Train accuracy: 0.568360
+03-30 07-57 INFO     >> Global Model Test accuracy: 0.587200
+03-30 08-11 INFO     >> Global Model Train accuracy: 0.588260
+03-30 08-11 INFO     >> Global Model Test accuracy: 0.602100
+03-30 08-25 INFO     >> Global Model Train accuracy: 0.603540
+03-30 08-25 INFO     >> Global Model Test accuracy: 0.617500
+03-30 08-39 INFO     >> Global Model Train accuracy: 0.618240
+03-30 08-39 INFO     >> Global Model Test accuracy: 0.632100
+03-30 08-53 INFO     >> Global Model Train accuracy: 0.635280
+03-30 08-53 INFO     >> Global Model Test accuracy: 0.646300
+03-30 09-08 INFO     >> Global Model Train accuracy: 0.656560
+03-30 09-08 INFO     >> Global Model Test accuracy: 0.666100
+03-30 09-22 INFO     >> Global Model Train accuracy: 0.672800
+03-30 09-22 INFO     >> Global Model Test accuracy: 0.677500
+03-30 09-37 INFO     >> Global Model Train accuracy: 0.686540
+03-30 09-37 INFO     >> Global Model Test accuracy: 0.690900
+03-30 09-51 INFO     >> Global Model Train accuracy: 0.694180
+03-30 09-51 INFO     >> Global Model Test accuracy: 0.695400
+03-30 10-05 INFO     >> Global Model Train accuracy: 0.704900
+03-30 10-05 INFO     >> Global Model Test accuracy: 0.707500
+03-30 10-19 INFO     >> Global Model Train accuracy: 0.713320
+03-30 10-19 INFO     >> Global Model Test accuracy: 0.711300
+03-30 10-33 INFO     >> Global Model Train accuracy: 0.723380
+03-30 10-33 INFO     >> Global Model Test accuracy: 0.719800
+03-30 10-47 INFO     >> Global Model Train accuracy: 0.725140
+03-30 10-47 INFO     >> Global Model Test accuracy: 0.723000
+03-30 11-01 INFO     >> Global Model Train accuracy: 0.739220
+03-30 11-01 INFO     >> Global Model Test accuracy: 0.733400
+03-30 11-16 INFO     >> Global Model Train accuracy: 0.744440
+03-30 11-16 INFO     >> Global Model Test accuracy: 0.740000
+03-30 11-30 INFO     >> Global Model Train accuracy: 0.750460
+03-30 11-30 INFO     >> Global Model Test accuracy: 0.742500
+03-30 11-44 INFO     >> Global Model Train accuracy: 0.752300
+03-30 11-44 INFO     >> Global Model Test accuracy: 0.745600
+03-30 11-58 INFO     >> Global Model Train accuracy: 0.758140
+03-30 11-58 INFO     >> Global Model Test accuracy: 0.747600
+03-30 12-12 INFO     >> Global Model Train accuracy: 0.767560
+03-30 12-12 INFO     >> Global Model Test accuracy: 0.753900
+03-30 12-26 INFO     >> Global Model Train accuracy: 0.772920
+03-30 12-26 INFO     >> Global Model Test accuracy: 0.761400
+03-30 12-40 INFO     >> Global Model Train accuracy: 0.774620
+03-30 12-40 INFO     >> Global Model Test accuracy: 0.759700
+03-30 12-55 INFO     >> Global Model Train accuracy: 0.783560
+03-30 12-55 INFO     >> Global Model Test accuracy: 0.766900
+03-30 13-09 INFO     >> Global Model Train accuracy: 0.783740
+03-30 13-09 INFO     >> Global Model Test accuracy: 0.771400
+03-30 13-23 INFO     >> Global Model Train accuracy: 0.791580
+03-30 13-23 INFO     >> Global Model Test accuracy: 0.774200
+03-30 13-37 INFO     >> Global Model Train accuracy: 0.791340
+03-30 13-37 INFO     >> Global Model Test accuracy: 0.776400
+03-30 13-51 INFO     >> Global Model Train accuracy: 0.798440
+03-30 13-51 INFO     >> Global Model Test accuracy: 0.780700
+03-30 14-05 INFO     >> Global Model Train accuracy: 0.798040
+03-30 14-05 INFO     >> Global Model Test accuracy: 0.775400
+03-30 14-19 INFO     >> Global Model Train accuracy: 0.801560
+03-30 14-19 INFO     >> Global Model Test accuracy: 0.783600
+>> Global Model Train accuracy: 0.801580
+>> Global Model Test accuracy: 0.783200
+>> Global Model Train accuracy: 0.806540
+>> Global Model Test accuracy: 0.786700
+>> Global Model Train accuracy: 0.810860
+>> Global Model Test accuracy: 0.789200
+>> Global Model Train accuracy: 0.812320
+>> Global Model Test accuracy: 0.791400
+>> Global Model Train accuracy: 0.813040
+>> Global Model Test accuracy: 0.790500
+>> Global Model Train accuracy: 0.815000
+>> Global Model Test accuracy: 0.792900
+>> Global Model Train accuracy: 0.815900
+>> Global Model Test accuracy: 0.792200
+>> Global Model Train accuracy: 0.817620
+>> Global Model Test accuracy: 0.793800
+>> Global Model Train accuracy: 0.820940
+>> Global Model Test accuracy: 0.796900
